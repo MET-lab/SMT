@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DF6A770C-0EB3-4AC4-ABBC-5C4814DF5298</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CannonDriver</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E2C136BE-DE31-4A46-8CAB-0F161D5F3AF1</key>
+		<string>svn+ssh://schubert.ece.drexel.edu/svnProjects/SMT_iOS/CannonDriver</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CannonDriver.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E2C136BE-DE31-4A46-8CAB-0F161D5F3AF1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>E2C136BE-DE31-4A46-8CAB-0F161D5F3AF1</key>
+		<string>svn+ssh://schubert.ece.drexel.edu/svnProjects</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn+ssh://schubert.ece.drexel.edu/svnProjects/SMT_iOS/CannonDriver/CannonDriver.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E2C136BE-DE31-4A46-8CAB-0F161D5F3AF1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E2C136BE-DE31-4A46-8CAB-0F161D5F3AF1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CannonDriver</string>
+		</dict>
+	</array>
+</dict>
+</plist>

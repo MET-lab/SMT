@@ -1,0 +1,398 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		427F063815A4F357001B8391 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 427F063715A4F357001B8391 /* UIKit.framework */; };
+		427F063A15A4F357001B8391 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 427F063915A4F357001B8391 /* Foundation.framework */; };
+		427F063C15A4F357001B8391 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 427F063B15A4F357001B8391 /* CoreGraphics.framework */; };
+		427F064215A4F357001B8391 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 427F064015A4F357001B8391 /* InfoPlist.strings */; };
+		427F064415A4F357001B8391 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F064315A4F357001B8391 /* main.m */; };
+		427F064815A4F357001B8391 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F064715A4F357001B8391 /* AppDelegate.m */; };
+		427F064B15A4F357001B8391 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F064A15A4F357001B8391 /* ViewController.m */; };
+		427F064E15A4F357001B8391 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 427F064C15A4F357001B8391 /* ViewController.xib */; };
+		427F065515A4F5C7001B8391 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 427F065415A4F5C7001B8391 /* Accelerate.framework */; };
+		427F065715A4F5CB001B8391 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 427F065615A4F5CB001B8391 /* QuartzCore.framework */; };
+		427F065915A4F5CF001B8391 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 427F065815A4F5CF001B8391 /* AudioToolbox.framework */; };
+		427F066215A4F64D001B8391 /* DrawView.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F065F15A4F64D001B8391 /* DrawView.m */; };
+		427F066315A4F64D001B8391 /* SpectrumView.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F066115A4F64D001B8391 /* SpectrumView.m */; };
+		427F066F15A4F65E001B8391 /* DoubleFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F066515A4F65E001B8391 /* DoubleFunctions.m */; };
+		427F067015A4F65E001B8391 /* FloatFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F066715A4F65E001B8391 /* FloatFunctions.m */; };
+		427F067115A4F65E001B8391 /* IntFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F066915A4F65E001B8391 /* IntFunctions.m */; };
+		427F067215A4F65E001B8391 /* MatlabFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F066C15A4F65E001B8391 /* MatlabFunctions.m */; };
+		427F067315A4F65E001B8391 /* SInt16Functions.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F066E15A4F65E001B8391 /* SInt16Functions.m */; };
+		427F067615A4F679001B8391 /* OBSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F067515A4F679001B8391 /* OBSlider.m */; };
+		427F067E15A4F689001B8391 /* AudioFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F067815A4F689001B8391 /* AudioFunctions.m */; };
+		427F067F15A4F689001B8391 /* AudioOutput.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F067A15A4F689001B8391 /* AudioOutput.m */; };
+		427F068015A4F689001B8391 /* SimpleFFT.m in Sources */ = {isa = PBXBuildFile; fileRef = 427F067D15A4F689001B8391 /* SimpleFFT.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		427F063315A4F356001B8391 /* AcousticSynthesis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AcousticSynthesis.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		427F063715A4F357001B8391 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		427F063915A4F357001B8391 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		427F063B15A4F357001B8391 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		427F063F15A4F357001B8391 /* AcousticSynthesis-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AcousticSynthesis-Info.plist"; sourceTree = "<group>"; };
+		427F064115A4F357001B8391 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		427F064315A4F357001B8391 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		427F064515A4F357001B8391 /* AcousticSynthesis-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AcousticSynthesis-Prefix.pch"; sourceTree = "<group>"; };
+		427F064615A4F357001B8391 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		427F064715A4F357001B8391 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		427F064915A4F357001B8391 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		427F064A15A4F357001B8391 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		427F064D15A4F357001B8391 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		427F065415A4F5C7001B8391 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
+		427F065615A4F5CB001B8391 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		427F065815A4F5CF001B8391 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		427F065E15A4F64D001B8391 /* DrawView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawView.h; sourceTree = "<group>"; };
+		427F065F15A4F64D001B8391 /* DrawView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawView.m; sourceTree = "<group>"; };
+		427F066015A4F64D001B8391 /* SpectrumView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpectrumView.h; sourceTree = "<group>"; };
+		427F066115A4F64D001B8391 /* SpectrumView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpectrumView.m; sourceTree = "<group>"; };
+		427F066415A4F65E001B8391 /* DoubleFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DoubleFunctions.h; sourceTree = "<group>"; };
+		427F066515A4F65E001B8391 /* DoubleFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DoubleFunctions.m; sourceTree = "<group>"; };
+		427F066615A4F65E001B8391 /* FloatFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FloatFunctions.h; sourceTree = "<group>"; };
+		427F066715A4F65E001B8391 /* FloatFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FloatFunctions.m; sourceTree = "<group>"; };
+		427F066815A4F65E001B8391 /* IntFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntFunctions.h; sourceTree = "<group>"; };
+		427F066915A4F65E001B8391 /* IntFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntFunctions.m; sourceTree = "<group>"; };
+		427F066A15A4F65E001B8391 /* MathFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathFunctions.h; sourceTree = "<group>"; };
+		427F066B15A4F65E001B8391 /* MatlabFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MatlabFunctions.h; sourceTree = "<group>"; };
+		427F066C15A4F65E001B8391 /* MatlabFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MatlabFunctions.m; sourceTree = "<group>"; };
+		427F066D15A4F65E001B8391 /* SInt16Functions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SInt16Functions.h; sourceTree = "<group>"; };
+		427F066E15A4F65E001B8391 /* SInt16Functions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SInt16Functions.m; sourceTree = "<group>"; };
+		427F067415A4F679001B8391 /* OBSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OBSlider.h; sourceTree = "<group>"; };
+		427F067515A4F679001B8391 /* OBSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OBSlider.m; sourceTree = "<group>"; };
+		427F067715A4F689001B8391 /* AudioFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioFunctions.h; sourceTree = "<group>"; };
+		427F067815A4F689001B8391 /* AudioFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioFunctions.m; sourceTree = "<group>"; };
+		427F067915A4F689001B8391 /* AudioOutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioOutput.h; sourceTree = "<group>"; };
+		427F067A15A4F689001B8391 /* AudioOutput.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioOutput.m; sourceTree = "<group>"; };
+		427F067B15A4F689001B8391 /* AudioParameters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioParameters.h; sourceTree = "<group>"; };
+		427F067C15A4F689001B8391 /* SimpleFFT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleFFT.h; sourceTree = "<group>"; };
+		427F067D15A4F689001B8391 /* SimpleFFT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleFFT.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		427F063015A4F356001B8391 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				427F065915A4F5CF001B8391 /* AudioToolbox.framework in Frameworks */,
+				427F065715A4F5CB001B8391 /* QuartzCore.framework in Frameworks */,
+				427F065515A4F5C7001B8391 /* Accelerate.framework in Frameworks */,
+				427F063815A4F357001B8391 /* UIKit.framework in Frameworks */,
+				427F063A15A4F357001B8391 /* Foundation.framework in Frameworks */,
+				427F063C15A4F357001B8391 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		427F062815A4F351001B8391 = {
+			isa = PBXGroup;
+			children = (
+				427F063D15A4F357001B8391 /* AcousticSynthesis */,
+				427F063615A4F356001B8391 /* Frameworks */,
+				427F063415A4F356001B8391 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		427F063415A4F356001B8391 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				427F063315A4F356001B8391 /* AcousticSynthesis.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		427F063615A4F356001B8391 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				427F065815A4F5CF001B8391 /* AudioToolbox.framework */,
+				427F065615A4F5CB001B8391 /* QuartzCore.framework */,
+				427F065415A4F5C7001B8391 /* Accelerate.framework */,
+				427F063715A4F357001B8391 /* UIKit.framework */,
+				427F063915A4F357001B8391 /* Foundation.framework */,
+				427F063B15A4F357001B8391 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		427F063D15A4F357001B8391 /* AcousticSynthesis */ = {
+			isa = PBXGroup;
+			children = (
+				427F065D15A4F635001B8391 /* Drawing */,
+				427F065C15A4F62E001B8391 /* Math Functions */,
+				427F065B15A4F624001B8391 /* Custom Objects */,
+				427F065A15A4F61E001B8391 /* Audio */,
+				427F064615A4F357001B8391 /* AppDelegate.h */,
+				427F064715A4F357001B8391 /* AppDelegate.m */,
+				427F064915A4F357001B8391 /* ViewController.h */,
+				427F064A15A4F357001B8391 /* ViewController.m */,
+				427F064C15A4F357001B8391 /* ViewController.xib */,
+				427F063E15A4F357001B8391 /* Supporting Files */,
+			);
+			path = AcousticSynthesis;
+			sourceTree = "<group>";
+		};
+		427F063E15A4F357001B8391 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				427F063F15A4F357001B8391 /* AcousticSynthesis-Info.plist */,
+				427F064015A4F357001B8391 /* InfoPlist.strings */,
+				427F064315A4F357001B8391 /* main.m */,
+				427F064515A4F357001B8391 /* AcousticSynthesis-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		427F065A15A4F61E001B8391 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				427F067715A4F689001B8391 /* AudioFunctions.h */,
+				427F067815A4F689001B8391 /* AudioFunctions.m */,
+				427F067915A4F689001B8391 /* AudioOutput.h */,
+				427F067A15A4F689001B8391 /* AudioOutput.m */,
+				427F067B15A4F689001B8391 /* AudioParameters.h */,
+				427F067C15A4F689001B8391 /* SimpleFFT.h */,
+				427F067D15A4F689001B8391 /* SimpleFFT.m */,
+			);
+			name = Audio;
+			sourceTree = "<group>";
+		};
+		427F065B15A4F624001B8391 /* Custom Objects */ = {
+			isa = PBXGroup;
+			children = (
+				427F067415A4F679001B8391 /* OBSlider.h */,
+				427F067515A4F679001B8391 /* OBSlider.m */,
+			);
+			name = "Custom Objects";
+			sourceTree = "<group>";
+		};
+		427F065C15A4F62E001B8391 /* Math Functions */ = {
+			isa = PBXGroup;
+			children = (
+				427F066415A4F65E001B8391 /* DoubleFunctions.h */,
+				427F066515A4F65E001B8391 /* DoubleFunctions.m */,
+				427F066615A4F65E001B8391 /* FloatFunctions.h */,
+				427F066715A4F65E001B8391 /* FloatFunctions.m */,
+				427F066815A4F65E001B8391 /* IntFunctions.h */,
+				427F066915A4F65E001B8391 /* IntFunctions.m */,
+				427F066A15A4F65E001B8391 /* MathFunctions.h */,
+				427F066B15A4F65E001B8391 /* MatlabFunctions.h */,
+				427F066C15A4F65E001B8391 /* MatlabFunctions.m */,
+				427F066D15A4F65E001B8391 /* SInt16Functions.h */,
+				427F066E15A4F65E001B8391 /* SInt16Functions.m */,
+			);
+			name = "Math Functions";
+			sourceTree = "<group>";
+		};
+		427F065D15A4F635001B8391 /* Drawing */ = {
+			isa = PBXGroup;
+			children = (
+				427F065E15A4F64D001B8391 /* DrawView.h */,
+				427F065F15A4F64D001B8391 /* DrawView.m */,
+				427F066015A4F64D001B8391 /* SpectrumView.h */,
+				427F066115A4F64D001B8391 /* SpectrumView.m */,
+			);
+			name = Drawing;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		427F063215A4F356001B8391 /* AcousticSynthesis */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 427F065115A4F357001B8391 /* Build configuration list for PBXNativeTarget "AcousticSynthesis" */;
+			buildPhases = (
+				427F062F15A4F356001B8391 /* Sources */,
+				427F063015A4F356001B8391 /* Frameworks */,
+				427F063115A4F356001B8391 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AcousticSynthesis;
+			productName = AcousticSynthesis;
+			productReference = 427F063315A4F356001B8391 /* AcousticSynthesis.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		427F062A15A4F351001B8391 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+				ORGANIZATIONNAME = "Drexel University";
+			};
+			buildConfigurationList = 427F062D15A4F351001B8391 /* Build configuration list for PBXProject "AcousticSynthesis" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 427F062815A4F351001B8391;
+			productRefGroup = 427F063415A4F356001B8391 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				427F063215A4F356001B8391 /* AcousticSynthesis */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		427F063115A4F356001B8391 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				427F064215A4F357001B8391 /* InfoPlist.strings in Resources */,
+				427F064E15A4F357001B8391 /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		427F062F15A4F356001B8391 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				427F064415A4F357001B8391 /* main.m in Sources */,
+				427F064815A4F357001B8391 /* AppDelegate.m in Sources */,
+				427F064B15A4F357001B8391 /* ViewController.m in Sources */,
+				427F066215A4F64D001B8391 /* DrawView.m in Sources */,
+				427F066315A4F64D001B8391 /* SpectrumView.m in Sources */,
+				427F066F15A4F65E001B8391 /* DoubleFunctions.m in Sources */,
+				427F067015A4F65E001B8391 /* FloatFunctions.m in Sources */,
+				427F067115A4F65E001B8391 /* IntFunctions.m in Sources */,
+				427F067215A4F65E001B8391 /* MatlabFunctions.m in Sources */,
+				427F067315A4F65E001B8391 /* SInt16Functions.m in Sources */,
+				427F067615A4F679001B8391 /* OBSlider.m in Sources */,
+				427F067E15A4F689001B8391 /* AudioFunctions.m in Sources */,
+				427F067F15A4F689001B8391 /* AudioOutput.m in Sources */,
+				427F068015A4F689001B8391 /* SimpleFFT.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		427F064015A4F357001B8391 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				427F064115A4F357001B8391 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		427F064C15A4F357001B8391 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				427F064D15A4F357001B8391 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		427F064F15A4F357001B8391 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		427F065015A4F357001B8391 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		427F065215A4F357001B8391 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AcousticSynthesis/AcousticSynthesis-Prefix.pch";
+				INFOPLIST_FILE = "AcousticSynthesis/AcousticSynthesis-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		427F065315A4F357001B8391 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AcousticSynthesis/AcousticSynthesis-Prefix.pch";
+				INFOPLIST_FILE = "AcousticSynthesis/AcousticSynthesis-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		427F062D15A4F351001B8391 /* Build configuration list for PBXProject "AcousticSynthesis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				427F064F15A4F357001B8391 /* Debug */,
+				427F065015A4F357001B8391 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		427F065115A4F357001B8391 /* Build configuration list for PBXNativeTarget "AcousticSynthesis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				427F065215A4F357001B8391 /* Debug */,
+				427F065315A4F357001B8391 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 427F062A15A4F351001B8391 /* Project object */;
+}

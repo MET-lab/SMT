@@ -1,0 +1,315 @@
+% Ray Migneco
+
+\documentclass[12pt]{article}
+\usepackage{alltt,epsfig}
+\usepackage{amsmath}
+\usepackage{fancyhdr}
+\usepackage{wrapfig}
+\usepackage{setspace}
+\usepackage{multirow}
+
+\marginparwidth 0pt
+\oddsidemargin  0pt
+\evensidemargin  0pt
+\marginparsep 0pt
+
+\topmargin   -0.5in
+\textwidth   6.5in
+\textheight  9 in
+
+\pagestyle{fancy}
+
+\fancyhead{}
+\fancyfoot{}
+
+\chead{Summer Music Technology 2010}
+\lfoot{MET-lab}
+\cfoot{\thepage}
+\rfoot{Drexel University}
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+%\newcommand{\ben}{\begin{enumerate}}
+%\newcommand{\een}{\end{enumerate}}
+
+
+\begin{document}
+
+% Make the document title
+\begin{center}
+{\Large \bf Musical Instrument Acoustics Lab}\\
+\end{center}
+
+\vspace{0.2in}
+
+{\bf Instructor: Ray Migneco}
+
+\vspace{.2in}
+{\bf Group Members:}
+
+\vspace{.3in}
+
+% Introduction
+\section{Introduction}
+This activity introduces several concepts that are fundamental to understanding how sound is produced in musical instruments. We'll be using PureData to generate and record sound to and from acoustic tubes to understand these phenomena. \\
+
+General Notes:
+\begin{itemize}
+\item Work in groups of 4 and specify your group members at the top of this sheet
+\item Divide up the tasks amongst your group members so everyone contributes
+\item Ask one of the MET-lab instructors for assistance if you need help
+\end{itemize}
+
+%Getting started
+\section{Getting Started}
+\subsection{Equipment Check}
+\begin{wrapfigure}{r}{0.5 \textwidth}
+	\vspace{-20pt}
+	\begin{center}
+	\includegraphics[width= .48 \textwidth]{images/gettingstarted/MIAparts2.pdf}
+	\end{center}
+	\vspace{-20pt}
+	\caption{Required equipment}
+	\vspace{-30pt}
+	\label{components}
+\end{wrapfigure}
+Before beginning, make sure you have the following components shown in Figure \ref{components}:
+\begin{itemize}
+\item (2) MacBooks
+\item (1) Tape Measure
+\item (1) Amplifier
+\item (1) Microphone
+\item (1) Mic to USB adapter
+\item (1) XLR cable
+\item (2) PVC/cardboard tubes
+\item (1) 1/8" audio cable
+\item (1) 4" speaker (fixed to a tube)
+\item (2) banana clips
+\end{itemize}
+
+\newpage
+
+\subsection{Software Setup}
+This section goes over the steps required to setup your computers for the activity.
+\begin{enumerate}
+\item Designate one MacBook as the \emph{Synthesizer} and the other as the \emph{Analyzer}
+\item On your Desktop, navigate to \textbf{SMT 2010}$\to$\textbf{Musical Instrument Acoustics} and double click to open \textbf{SineGenerator.pd}(change name)
+\item Repeat Step 2 for the Analyzer and Synthesizer MacBooks
+\end{enumerate}
+
+\subsection{Setting Up and Testing the Microphone}
+% Sound Prefs expanded
+Since we'll be analyzing live audio, we need to set up the microphone interface. Complete these steps \textbf{ONLY} for the Analyzer MacBook.
+\begin{itemize}
+\item Make sure the 3-position switch on the XLR-USB adapter is set to \textbf{LO}
+\item Connect one end of the XLR cable to the Microphone and the other end to the XLR-USB adapter
+\item Connect one end to the USB Cable to the XLR-USB adapter and the other end to a USB port on the macbook
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=.65in]{images/gettingstarted/systemprefs.pdf}
+\,
+\includegraphics[width=.65in]{images/gettingstarted/sound.pdf}
+\caption{System (left) and Sound (right) Preferences Icons.}
+\label{systemprefs}
+\end{figure}
+
+\item In the Dock, open the \textbf{System Preferences} application
+\item In System Preferences, select the \textbf{Sound} Icon. The icons are shown in Figure \ref{systemprefs}
+\item In Sound Preferences, select the \textbf{Input} Tab$\to$\textbf{Choose a device for sound input}$\to$\textbf{USB Audio CODEC} to enable the microphone.
+\end {itemize}
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=4in]{images/gettingstarted/soundutils2.pdf}
+\caption{The Sound options with \tesxtbf{Input} tab expanded}
+\label{soundprefs}
+\end{figure}
+
+\subsection{Sine Waves and Pure Data}
+\subsubsection{Sinusoid Properties Overview}
+From your previous coursework you may be familiar with sinusoidal waves (i.e. sines and cosines). In the most general form, the amplitude of sinusoid over time may be described by:
+
+\begin{equation}
+y\left (t\right ) = A\sin {\left (\omega t + \phi \right)}
+\label{sineEq}
+\end{equation}
+
+As you may recall from the Sound Waves lab, the sinusoid has three degrees of freedom that contribute towards producing a particular tone.
+
+\begin{itemize}
+\item $\omega$ indicates the \emph{angular frequency}. This may be expanded to $ \omega = 2 \pi f$, where $f$ indicates the frequency in Hz (cycles per second). Frequency is associated with the pitch of a particular tone.
+\item $T$ describes the \emph{period} of the wave, or the time it takes to complete a cycle, measured in seconds. Although not explicitly stated in Equation \ref{sineEq}, the period is inversely related to the frequency: $T = 1/f$
+\item $A$ indicates the peak \emph{amplitude} of the sinusoid. This is the largest value the sinusoid can take at any given instant during its cycle.
+\item  $\phi$ indicates the \emph{phase} of the sinusoid, or its position in time. Setting $\phi = 0$ makes Equation \ref{sineEq} equal to the sine function. Phase is measured in degrees or radians.
+\end {itemize}
+
+\textbf{Question: What should the phase value, $\phi$, be in order to make  Equation \ref{sineEq} a cosine function? (Hint: graph the sine and cosine functions)}
+\vspace{.5in}
+
+In addition to the properties mentioned above, an important property of a traveling wave is its \emph{wavelength}. Wavelength describes the distance over which a wave repeats. In other words, wavelength is the measured distance between two points on the wave that have the same phase. This is shown in Figure \ref{wavelength}.
+
+% Wavelength
+\begin{figure}[!h]
+\centering
+\includegraphics[width=2.0in]{images/gettingstarted/wavelength.png}
+\caption{Measuring wavelength on a traveling sinusoidal wave}
+\label{wavelength}
+\end{figure}
+%
+
+However, since we are not able to physically measure waves we must rely on the following relationship to obtain the wavelength:
+
+\begin{equation}
+\lambda = \frac{v}{f}
+\label{wavelengthEq}
+\end{equation}
+
+In Equation \ref{wavelengthEq}, we see that wavelength depends on $v$, or the speed of sound in a particular medium, and the frequency of the propagating wave. In air, the speed of sound is 343 m/sec.
+
+\subsubsection{Pure Data}
+Now that we have a solid background in sinusoidal properties, we can start generating our tones. On the Playback MacBook, switch over to Pure Data so we can take a look at the``Sine Generator" patch we opened earlier.
+
+%PD SHOT
+\begin{figure}[!h]
+\centering
+\includegraphics[width=5.5in]{images/gettingstarted/pdshot.png}
+\caption{Pure Data Sine Generator patch}
+\label{pdshot}
+\end{figure}
+%
+
+\begin {itemize}
+\item In the lower left corner of the screen, you'll notice a turquoise block with the ``On" label above it. This is how we'll turn the Sine Generator on and off. Go ahead and turn it on and notice that an ``X" appears over the block so you can toggle it off.
+\item Above the On/Off switch,  you'll notice a ``Volume" Slider in light blue. Go ahead and raise the volume to about 33\%. This is equivalent to the amplitude control, $A$, we discussed earlier. 
+\item To the right of the On/Off switch is ``Pitch" Slider in Green, which controls the frequency, $f$, of our sounds. Using your mouse, drag it out to the right and left and observe the resulting sound
+\end {itemize}
+
+\textbf{Using headphones, sescribe the sound you hear as you sweep the frequencies from 0 Hz to about 50 Hz. Can you hear all the frequencies? Why does this happen?}
+\vspace{.5in}
+
+\section {Acoustic Resonance}
+\subsection {Overview}
+With the fundamentals of sound waves in place, we can now expand these concepts as they pertain to \emph{acoustic resonance}. Resonance is an essential concept exploited in the construction and performance of musical instruments, as we will see. Resonance is the tendency of any acoustic system, such as a pipe or guitar, to absorb more energy when it is driven by a frequency that matches its natural frequency(s). You may know about resonance in other mechanical systems as well, such as wind vibrating suspension bridges or pushing your friend on a swing. The concept of acoustic resonance is similar.
+
+\subsection {Case 1: Experimentally finding the resonance of an open tube}
+Using our equipment and software, we're going to attempt to find the first resonant frequency of our tube systems. The following set up is required:
+
+\begin{itemize}
+\item Lay out the larger diameter tube on a table so that the speaker terminals are facing the ceiling.
+\item Place the smaller diameter tube in the larger one so that the total length is somewhere in between 36" - 48". Maintain a constant length through the experiment.
+\item Hook up the amplifier by connecting the AC adapter to a power source. DO NOT TURN IT ON YET.
+\item Use the banana clips to connect the Red and Black leads from the amplifier to the terminals on the speaker.
+\item Connect the 1/8" audio cable from the Headphone output of your Playback MacBook to the ``In" jack on the amplifier.
+\item Make sure the volume on your MacBook is set at a reasonable volume (midway). Turn on the amp by turning the ``VOL" knob to the right. Set its position around 12:00
+\item Position the microphone within the tube so it is located in front of the speaker WITHOUT touching it.
+\item Turn on the Sine Generator in Pure Data using the On/Off Toggle switch. Raise the Volume slider no more than 50\% to attain sufficient volume. Turn the ``VOL" knob on the amplifier up if more power is needed.
+\item On the Recording MacBook, start recording in Audacity.
+\item On the Playback MacBook, move the Pitch  Slider slowly towards the right and observe the amplitude of the recorded signal. When the resonance frequency is achieved, you'll notice that the amplitude of the recorded signal should increase and the tube should vibrate very strongly.
+%the following instructions are for the non - microphone case.
+%\item Turn on the Sine Generator in Pure Data using the On/Off Toggle Switch.
+%\item Move the Pitch slider to 60 Hz. Find a reasonable volume by increasing the Volume Slider in Pure Data and gently %increasing the volume on the amplifier. Take care not to overdrive the amp.
+\end {itemize}
+
+\textbf{Question: What was the resonant frequency of your tube? Record the frequency and length of your tube system here.}
+\vspace{.5in}
+
+\subsection{Case 2: Achieving resonance by modifying the tube length}
+Rather than sweeping frequencies as in the previous exercise, we'll now try to achieve resonance by modifying the length of the tube with a fixed frequency. Remove the mic from the tube, we won't need it here.
+
+\begin{itemize}
+\item Turn the Sine Generator back on and set the Pitch to 200 Hz.
+\item Slowly, slide the inner tube in and out of the larger tube and observe what you hear.
+\item Identify the length of the tube system that achieves resonance. You should notice that this particular length causes the tube to vibrate intensely.
+\end {itemize}
+
+\textbf{Question: What was the total length of the tube system that achieved resonance? Record the length of the tube system and the frequency of the Sine Generator here.}
+\vspace{.5in}
+
+\subsection{Summary}
+To exploit the relationship between the resonant frequency for a particular tube length, calculate the wavelength of the resonant frequency you obtained in Case 1 using Equation \ref{wavelengthEq}. Specify the length of the tube in Figure \ref{open tube} and draw one wavelength for your resonant frequency within the tube similar to Figure \ref{wavelength}. Remember to use metric units when performing your calculations!
+
+%Open Tube
+\begin{figure}[h]
+\centering
+\includegraphics[width=2.5in]{images/resonance/opentube.pdf}
+\caption{Open Tube Diagram}
+\label{open tube}
+\end{figure}
+%
+
+\newpage
+
+\section{Standing Waves and Resonance}
+In the previous section, we dealt with complex sound wave interaction in order to achieve resonance. In particular, the resonance is due to \emph{standing waves} being formed inside the tube. Near the ends of the tube, the sound wave is actually reflected back towards the speaker. At the resonance frequency, these reflected waves add with the original to form the standing wave, which matches the natural frequency of the tube.
+
+Figure \ref{harmonics} shows this phenomena in more detail. The pressure at different lengths along the tube is plotted. Notice that the tube ends have minimum pressure (known as ``nodes") since there is no pressure buildup at an open end. Standing waves that ``fit" in the tube this way produce the resonant effect in the tube. That is, resonant frequencies have a wavelength that is an integer multiple of $\lambda/2$.
+
+%standing wave harmoincs
+\begin{figure}[!h]
+\centering
+\includegraphics[width=2.5in]{images/resonance/harmonics.pdf}
+\caption{Tube resonances. Top: $n = 1$. Middle: $n=2$. Bottom: $n=3$.}
+\label{harmonics}
+\end{figure}
+
+This all means that a tube can have many resonances and there is a mathematical equation that derives resonant frequencies for a particular length and diameter tube:
+
+\begin{equation}
+f = \frac{nv}{2 \left (L + .8d \right)}
+\label{resonanceEq}
+\end {equation}
+
+where $n$ indicates the desired resonances, $v$ is the speed of sound, and $L$ and $d$ are the tube's length and diameter (in meters), respectively.
+
+\textbf{Question: Calculate the first 3 resonance frequencies for a tube configuration of length 36 inches. Using the Sine Generator, attempt to experimentally identify these resonances by slowly increasing the frequency. It may help to record the tube output. Are the calculated resonances similar to the ones you observed? Indicate any differences. (Hint: since you have two tubes of different diameters, average them together for your $d$ value}
+
+\vspace{.5in}
+
+\textbf{Question: Which resonant frequencies appear to be the strongest? The fundamental (i.e. $n = 1$) or the harmonically related resonances ($n=2, 3$). Record the resonances with Audacity to help substantiate your claim}
+
+\section{White Noise}
+Now that we understand how certain tones can cause a tube to resonate, lets explore a more complex signal such as \emph{white noise}. White noise is a signal that is composed of all frequencies rather than specific tones. You've probably heard white noise when your cable TV goes out or as you're trying to tune a radio station in. Unlike sound waves generated from sinusoidal tones, static has no perceived pitch.
+
+\begin{itemize}
+\item Turn off the amplifier and unplug the 1/8" audio jack from your Playback MacBook
+\item Open Fire Fox and navigate to {\tt http://en.wikipedia.org/wiki/White\_noise}. Midway down the page, there is a sound clip for white noise. Listen to it.
+\item Using the Recording MacBook, position the microphone so that you can record a few seconds of the white noise.
+\item Select one second of the noise recording using the cursor in Audacity. Select ``Analyze" from the Audacity menu (at the top of the screen) and click ``Plot Spectrum". This is shown in Figure \ref{fft}.
+
+%Plot Spectrum
+\begin{figure}[!h]
+\centering
+\includegraphics[width=3.5in]{images/noise/spectrum.png}
+\caption{Spectral Plot of Noise using Audacity}
+\label{fft}
+\end{figure}
+
+\end{itemize}
+
+What we've done is generated \emph{spectrum} for the white noise. Viewing the spectrum allows us to see what frequencies are present in the signal. The x-axis indicates frequency and the y-axix measured magnitude (usually measured in a logarithmic scale). As you can see from Figure \ref{fft}, the spectrum of white noise is relatively flat and doesn't really emphasize any particular frequency.
+
+Now lets pump the white noise through our tubes.
+
+\begin{itemize}
+\item Reconnect the amplifier and speaker to the Playback MacBook.
+\item Set the tube length to 36" to match the resonances we calculated in the previous section so we don't have to recalculate them over again.
+\item Using the Wikipedia link, generate white noise through the tube. Observe what you hear.
+\item Use Audacity and your microphone to record the tube's output.
+\item Stop the recording and select about 1 second of the recorded noise. Plot the spectrum of it using the techniques described above
+\end {itemize}
+
+\textbf{Question: Observe the spectrum you plotted from the white noise through the tube. Identify the largest peaks in the spectrum by scrolling over the spectrum with the mouse cursor. What frequency to these peaks occur at? Are these close or related to the resonances you calculated previously?}
+
+\vspace{1in}
+
+What we have just observed is the \emph{filtering} of the tube system. You may have heard of other types of filters, such as a coffee filter, because it is designed to let certain things pass while blocking others (such as coffee grinds). The tube system is doing the same thing with the white noise. It is choosing to keep the frequencies at (or close to) its resonant frequencies while mostly rejecting other frequencies.
+
+This concept is extremely important in the design and construction of musical instruments. Hollow-body string instruments exhibit resonances due to the physical dimensions of the body and sound cavity. The body resonance causes certain ranges of frequencies to sound brighter and stronger while suppressing others.
+
+\textbf{Question: What is the relationship between the size of a musical instrument and the frequencies it can produce? Compare an upright bass to a violin. Which instrument produces lower tones? Explain.}
+\vspace{1in}
+\textbf{Now exploit the relationship between the size of wind powered instruments and the frequencies they can produce. Can a flute produce the same notes as a bassoon? Why or why not?}
+
+\end{document}

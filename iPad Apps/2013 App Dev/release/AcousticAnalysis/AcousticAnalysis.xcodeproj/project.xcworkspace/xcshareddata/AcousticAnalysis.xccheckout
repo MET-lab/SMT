@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>885C2C15-4F92-429F-8F15-1B79A2DBF528</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AcousticAnalysis</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9A3268AD-3C6E-4731-AB2A-C46FF6CA49BD</key>
+		<string>svn+ssh://schubert.ece.drexel.edu/svnProjects/SMT_iOS/AcousticAnalysis</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AcousticAnalysis.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9A3268AD-3C6E-4731-AB2A-C46FF6CA49BD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9A3268AD-3C6E-4731-AB2A-C46FF6CA49BD</key>
+		<string>svn+ssh://schubert.ece.drexel.edu/svnProjects</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn+ssh://schubert.ece.drexel.edu/svnProjects/SMT_iOS/AcousticAnalysis/AcousticAnalysis.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9A3268AD-3C6E-4731-AB2A-C46FF6CA49BD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9A3268AD-3C6E-4731-AB2A-C46FF6CA49BD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AcousticAnalysis</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+#N canvas 282 124 508 412 10;
+#X declare -lib mrpeach;
+#X obj 128 113 loadbang;
+#X msg 329 244 \; pd dsp 1;
+#X obj 322 150 loadbang;
+#X obj 320 185 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 261 57 inlet;
+#X text 42 25 Initializes/resets on opening and if it receives a bang
+to the inlet.;
+#X obj 193 227 sendOSC;
+#X msg 245 193 disconnect;
+#X msg 186 164 connect 10.0.1.46 8000;
+#X obj 74 212 import mrpeach;
+#X msg 159 276 \; fmCarrierHz 100 \; fmModulatorHz 20 \; fmModulatorAmplitude
+15 \; oscWaveshape 0.25 \; filterCutoffHz 400 \; onoff 1 \; volume
+0.2 \;;
+#X connect 0 0 10 0;
+#X connect 0 0 8 0;
+#X connect 0 0 9 0;
+#X connect 2 0 3 0;
+#X connect 3 0 1 0;
+#X connect 4 0 10 0;
+#X connect 4 0 3 0;
+#X connect 7 0 6 0;
+#X connect 8 0 6 0;

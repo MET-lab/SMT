@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>36E7AC42-DBE8-4E1E-A510-5255BBAD8D92</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SoundAndWaves</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>937D5666-7680-42E4-B229-94C54301329A</key>
+		<string>svn+ssh://schubert.ece.drexel.edu/svnProjects/SMT_iOS/SoundAndWaves</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SoundAndWaves.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>937D5666-7680-42E4-B229-94C54301329A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>937D5666-7680-42E4-B229-94C54301329A</key>
+		<string>svn+ssh://schubert.ece.drexel.edu/svnProjects</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn+ssh://schubert.ece.drexel.edu/svnProjects/SMT_iOS/SoundAndWaves/SoundAndWaves.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>937D5666-7680-42E4-B229-94C54301329A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>937D5666-7680-42E4-B229-94C54301329A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SoundAndWaves</string>
+		</dict>
+	</array>
+</dict>
+</plist>

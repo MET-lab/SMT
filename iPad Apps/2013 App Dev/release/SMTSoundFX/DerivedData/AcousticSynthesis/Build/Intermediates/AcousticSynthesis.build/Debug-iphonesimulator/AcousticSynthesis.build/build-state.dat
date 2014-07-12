@@ -1,0 +1,912 @@
+TAcousticSynthesis
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Info.plist AcousticSynthesis/AcousticSynthesis-Info.plist
+cProcessPCH /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch.pth AcousticSynthesis/AcousticSynthesis-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/EnvelopeView.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/EnvelopeView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DrawView.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DrawView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AppDelegate.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SpectrumView.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SpectrumView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DoubleFunctions.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DoubleFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/IntFunctions.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/IntFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SInt16Functions.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SInt16Functions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/OBSlider.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/OBSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/ViewController.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/main.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FloatFunctions.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FloatFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioFunctions.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/MatlabFunctions.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/MatlabFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioOutput.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SimpleFFT.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SimpleFFT.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/TimeEnvelopeViewController.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FrequencyEnvelopeViewController.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/AcousticSynthesis normal i386
+cGenerateDSYMFile /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app.dSYM /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/AcousticSynthesis
+cCopyStringsFile /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/en.lproj/InfoPlist.strings AcousticSynthesis/en.lproj/InfoPlist.strings
+cCompileXIB /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.xib
+cCompileXIB /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/en.lproj/ViewController.xib
+cCompileXIB /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.xib
+cCpResource icon.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/icon.png
+cCpResource AcousticSynthesis/specGrid.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/specGrid.png
+cCpResource AcousticSynthesis/audioGrid.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/audioGrid.png
+cCpResource AcousticSynthesis/PlotBorder.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/PlotBorder.png
+cCpResource AcousticSynthesis/bg4.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/bg4.png
+cCpResource AcousticSynthesis/portrait_background.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/portrait_background.png
+cCpResource AcousticSynthesis/drexelSlider.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/drexelSlider.png
+cCpResource AcousticSynthesis/stopButton.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/stopButton.png
+cCpResource AcousticSynthesis/playButton.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/playButton.png
+cCpResource AcousticSynthesis/envelopeButton.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/envelopeButton.png
+cCpResource "Synthesis Icon.png" "DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Synthesis Icon.png"
+cTouch /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c00000000516DD9380000000000000110
+t1366153528
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000510FE16D0000000000003530
+t1359995245
+s13616
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000510FE17000000000003D4DF0
+t1359995248
+s4017648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000510FE1720000000000228FE0
+t1359995250
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000510FE17300000000003DDFA0
+t1359995251
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000510FE17800000000001D5750
+t1359995256
+s1922896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510FE17A0000000000AB6230
+t1359995258
+s11231792
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AcousticSynthesis-Prefix.pch
+c0000000051C095CF0000000000000151
+t1371575759
+s337
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AppDelegate.m
+c0000000051C095CF0000000000000961
+t1371575759
+s2401
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioFunctions.m
+c0000000051C095CF00000000000001FB
+t1371575759
+s507
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m
+c0000000051C095CF00000000000014D7
+t1371575759
+s5335
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DoubleFunctions.m
+c0000000051C095CF00000000000004B7
+t1371575759
+s1207
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DrawView.m
+c0000000051C095CF0000000000001C9C
+t1371575759
+s7324
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/EnvelopeView.m
+c0000000051C095CF0000000000001E7A
+t1371575759
+s7802
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FloatFunctions.m
+c0000000051C095CF0000000000000960
+t1371575759
+s2400
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.m
+c0000000051C095CF0000000000001234
+t1371575759
+s4660
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.xib
+c0000000051C095CF00000000000021B9
+t1371575759
+s8633
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/IntFunctions.m
+c0000000051C095CF00000000000003DF
+t1371575759
+s991
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/MatlabFunctions.m
+c0000000051C095CF000000000000032A
+t1371575759
+s810
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/OBSlider.m
+c0000000051C095CF0000000000001AA9
+t1371575759
+s6825
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/PlotBorder.png
+c0000000051C095CF0000000000007FBA
+t1371575759
+s32698
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SInt16Functions.m
+c0000000051C095CF00000000000004BD
+t1371575759
+s1213
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SimpleFFT.m
+c0000000051C095CF0000000000000DEF
+t1371575759
+s3567
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SpectrumView.m
+c0000000051C095CF00000000000007F0
+t1371575759
+s2032
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.m
+c0000000051C095CF00000000000011E1
+t1371575759
+s4577
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.xib
+c0000000051C095CF0000000000002633
+t1371575759
+s9779
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/ViewController.m
+c0000000051C095CF0000000000004B53
+t1371575759
+s19283
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/audioGrid.png
+c0000000051C095CF00000000000015D4
+t1371575759
+s5588
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/bg4.png
+c0000000051C095CF00000000000C0ECE
+t1371575759
+s790222
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/drexelSlider.png
+c0000000051C095CF0000000000000C21
+t1371575759
+s3105
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/en.lproj/InfoPlist.strings
+c0000000051C095CF000000000000002D
+t1371575759
+s45
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/en.lproj/ViewController.xib
+c0000000051C0998E000000000005DF75
+t1371576718
+s384885
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/envelopeButton.png
+c0000000051C095CF0000000000001683
+t1371575759
+s5763
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/main.m
+c0000000051C095CF0000000000000165
+t1371575759
+s357
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/playButton.png
+c0000000051C095CF000000000000E432
+t1371575759
+s58418
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/portrait_background.png
+c0000000051C095CF00000000000AEC16
+t1371575759
+s715798
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/specGrid.png
+c0000000051C095CF0000000000001547
+t1371575759
+s5447
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/stopButton.png
+c0000000051C095CF000000000000DA03
+t1371575759
+s55811
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AcousticSynthesis.LinkFileList
+c0000000051C0CFE70000000000000D30
+t1371590631
+s3376
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioFunctions.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioOutput.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DoubleFunctions.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DrawView.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/EnvelopeView.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FloatFunctions.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FrequencyEnvelopeViewController.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/IntFunctions.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/MatlabFunctions.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/OBSlider.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SInt16Functions.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SimpleFFT.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SpectrumView.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/TimeEnvelopeViewController.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch.pth
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app.dSYM
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/AcousticSynthesis
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/FrequencyEnvelopeViewController.nib
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Info.plist
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/PkgInfo
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/PlotBorder.png
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Synthesis Icon.png
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/TimeEnvelopeViewController.nib
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/audioGrid.png
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/bg4.png
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/drexelSlider.png
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/en.lproj/ViewController.nib
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/envelopeButton.png
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/icon.png
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/playButton.png
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/portrait_background.png
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/specGrid.png
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/stopButton.png
+t2
+s0
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/Synthesis Icon.png
+c0000000051C095CF0000000000000B67
+t1371575759
+s2919
+
+N/Users/Jeff/Desktop/SMT/AcousticSynthesis/icon.png
+c0000000051C095CF0000000000001F29
+t1371575759
+s7977
+
+NAcousticSynthesis/AcousticSynthesis-Info.plist
+c0000000051C095CF000000000000051D
+t1371575759
+s1309
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AppDelegate.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioFunctions.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DoubleFunctions.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DrawView.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/EnvelopeView.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FloatFunctions.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/IntFunctions.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/MatlabFunctions.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/OBSlider.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SInt16Functions.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SimpleFFT.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SpectrumView.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/ViewController.m
+r0
+
+CBuild AST from /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies87c2a7670771b741^5707b8670771b741^---0#1#0#--18"Check dependencies36"DE032A4D-7A40-48D2-8AE1-BDB46504635C-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AppDelegate.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.809729
+e393283433.072889
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AppDelegate.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AppDelegate.mae7fcf680771b741^50a912690771b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AppDelegate.m0000000000000000^4274"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AppDelegate.o AcousticSynthesis/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AppDelegate.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AppDelegate.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AppDelegate.o36"C81A5A6F-6794-4702-B8B9-CA0735F894BD-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioFunctions.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.952609
+e393283432.993974
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioFunctions.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioFunctions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioFunctions.m6f11f4680771b741^c174fe680771b741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioFunctions.m0000000000000000^4292"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioFunctions.o AcousticSynthesis/AudioFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioFunctions.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioFunctions.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioFunctions.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioFunctions.o36"4A10CF0E-A1D7-4916-9895-596915E67606-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioOutput.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.963567
+e393283433.063372
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioOutput.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m:71:9: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]
+o        NSAssert1(err == noErr, @"Error initializing unit: %ld", err);
+o        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'
+o#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))
+o                                                                       ^~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'
+o                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \
+o                                                          ^
+o/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m:74:9: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]
+o        NSAssert1(err == noErr, @"Error starting unit: %ld", err);
+o        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'
+o#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))
+o                                                                       ^~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'
+o                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \
+o                                                          ^
+o/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m:97:2: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]
+o        NSAssert1(toneUnit, @"Error creating unit: %ld", err);
+o        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'
+o#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))
+o                                                                       ^~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'
+o                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \
+o                                                          ^
+o/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m:109:2: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]
+o        NSAssert1(err == noErr, @"Error setting callback: %ld", err);
+o        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'
+o#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))
+o                                                                       ^~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'
+o                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \
+o                                                          ^
+o/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m:130:2: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]
+o        NSAssert1(err == noErr, @"Error setting stream format: %ld", err);
+o        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'
+o#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))
+o                                                                       ^~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'
+o                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \
+o                                                          ^
+o5 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m58e1f6680771b741^e73710690771b741^-5356"/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m:71:9: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]        NSAssert1(err == noErr, @"Error initializing unit: %ld", err);        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))                                                                       ^~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \                                                          ^/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m:74:9: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]        NSAssert1(err == noErr, @"Error starting unit: %ld", err);        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))                                                                       ^~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \                                                          ^/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m:97:2: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]        NSAssert1(toneUnit, @"Error creating unit: %ld", err);        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))                                                                       ^~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \                                                          ^/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m:109:2: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]        NSAssert1(err == noErr, @"Error setting callback: %ld", err);        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))                                                                       ^~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \                                                          ^/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m:130:2: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]        NSAssert1(err == noErr, @"Error setting stream format: %ld", err);        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))                                                                       ^~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \                                                          ^5 warnings generated.5(36%IDEClangDiagnosticActivityLogMessage2@76"Format specifies type 'long' but the argument has type 'OSErr' (aka 'short')-393283433#18446744073709551615#0#2(2@31"Expanded from macro 'NSAssert1'-393283433#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#71#4238#0#30"Apple LLVM compiler 4.2 Notice2(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#77#4238#5#3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^70#59#70#62#2118#3#-2@30"Expanded from macro 'NSAssert'-393283433#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^101#48#101#48#3359#0#30"Apple LLVM compiler 4.2 Notice1(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^70#59#70#62#2118#3#-1#27"com.apple.dt.IDE.diagnostic3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^70#8#70#8#0#0#19"Format String Issue2(3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^70#8#70#69#2067#60#3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^70#59#70#62#2118#3#-2@76"Format specifies type 'long' but the argument has type 'OSErr' (aka 'short')-393283433#18446744073709551615#0#2(2@31"Expanded from macro 'NSAssert1'-393283433#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#71#4238#0#30"Apple LLVM compiler 4.2 Notice2(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#77#4238#5#3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^73#55#73#58#2257#3#-2@30"Expanded from macro 'NSAssert'-393283433#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^101#48#101#48#3359#0#30"Apple LLVM compiler 4.2 Notice1(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^73#55#73#58#2257#3#-1#27"com.apple.dt.IDE.diagnostic3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^73#8#73#8#0#0#19"Format String Issue2(3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^73#8#73#65#2210#56#3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^73#55#73#58#2257#3#-2@76"Format specifies type 'long' but the argument has type 'OSErr' (aka 'short')-393283433#18446744073709551615#0#2(2@31"Expanded from macro 'NSAssert1'-393283433#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#71#4238#0#30"Apple LLVM compiler 4.2 Notice2(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#77#4238#5#3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^96#44#96#47#3247#3#-2@30"Expanded from macro 'NSAssert'-393283433#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^101#48#101#48#3359#0#30"Apple LLVM compiler 4.2 Notice1(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^96#44#96#47#3247#3#-1#27"com.apple.dt.IDE.diagnostic3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^96#1#96#1#0#0#19"Format String Issue2(3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^96#1#96#54#3204#52#3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^96#44#96#47#3247#3#-2@76"Format specifies type 'long' but the argument has type 'OSErr' (aka 'short')-393283433#18446744073709551615#0#2(2@31"Expanded from macro 'NSAssert1'-393283433#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#71#4238#0#30"Apple LLVM compiler 4.2 Notice2(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#77#4238#5#3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^108#51#108#54#3755#3#-2@30"Expanded from macro 'NSAssert'-393283433#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^101#48#101#48#3359#0#30"Apple LLVM compiler 4.2 Notice1(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^108#51#108#54#3755#3#-1#27"com.apple.dt.IDE.diagnostic3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^108#1#108#1#0#0#19"Format String Issue2(3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^108#1#108#61#3705#59#3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^108#51#108#54#3755#3#-2@76"Format specifies type 'long' but the argument has type 'OSErr' (aka 'short')-393283433#18446744073709551615#0#2(2@31"Expanded from macro 'NSAssert1'-393283433#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#71#4238#0#30"Apple LLVM compiler 4.2 Notice2(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#77#4238#5#3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^129#56#129#59#4802#3#-2@30"Expanded from macro 'NSAssert'-393283433#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^101#48#101#48#3359#0#30"Apple LLVM compiler 4.2 Notice1(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^129#56#129#59#4802#3#-1#27"com.apple.dt.IDE.diagnostic3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^129#1#129#1#0#0#19"Format String Issue2(3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^129#1#129#66#4747#64#3@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^129#56#129#59#4802#3#-0#0#0#-19%DVTDocumentLocation4@89"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m0000000000000000^4274"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioOutput.o AcousticSynthesis/AudioOutput.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioOutput.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioOutput.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AudioOutput.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AudioOutput.o36"B5618195-1847-4E9D-8E8B-29EDE57678F4-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DoubleFunctions.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DoubleFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.809773
+e393283432.920403
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DoubleFunctions.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DoubleFunctions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DoubleFunctions.ma186cf680771b741^459feb680771b741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DoubleFunctions.m0000000000000000^4298"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DoubleFunctions.o AcousticSynthesis/DoubleFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DoubleFunctions.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DoubleFunctions.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DoubleFunctions.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DoubleFunctions.o36"0D58C9FD-AD54-44C7-B928-9591A63D1F65-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DrawView.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DrawView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.809701
+e393283432.974876
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DrawView.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DrawView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DrawView.m0e85cf680771b741^9ecef9680771b741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DrawView.m0000000000000000^4256"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DrawView.o AcousticSynthesis/DrawView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DrawView.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DrawView.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/DrawView.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/DrawView.o36"7583F27C-50A3-4C34-A082-53D79D71C857-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/EnvelopeView.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/EnvelopeView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.809703
+e393283432.970782
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/EnvelopeView.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/EnvelopeView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/EnvelopeView.me885cf680771b741^5184f8680771b741^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/EnvelopeView.m0000000000000000^4280"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/EnvelopeView.o AcousticSynthesis/EnvelopeView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/EnvelopeView.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/EnvelopeView.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/EnvelopeView.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/EnvelopeView.o36"4B7B36C2-EB36-47B8-8C0F-67A4B5185F9E-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FloatFunctions.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FloatFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.921628
+e393283432.962299
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FloatFunctions.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FloatFunctions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FloatFunctions.m9a07ec680771b741^d658f6680771b741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FloatFunctions.m0000000000000000^4292"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FloatFunctions.o AcousticSynthesis/FloatFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FloatFunctions.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FloatFunctions.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FloatFunctions.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FloatFunctions.o36"0ED48EFF-8728-4AA3-9B86-514CACB23154-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FrequencyEnvelopeViewController.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.986588
+e393283433.086545
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FrequencyEnvelopeViewController.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.m4889fd680771b741^bf2716690771b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.m0000000000000000^4394"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FrequencyEnvelopeViewController.o AcousticSynthesis/FrequencyEnvelopeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FrequencyEnvelopeViewController.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FrequencyEnvelopeViewController.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/FrequencyEnvelopeViewController.o36"DF3933C4-631D-4C77-AB43-4FB4DDAB6505-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/IntFunctions.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/IntFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.809788
+e393283432.918914
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/IntFunctions.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/IntFunctions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/IntFunctions.m0587cf680771b741^033eeb680771b741^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/IntFunctions.m0000000000000000^4280"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/IntFunctions.o AcousticSynthesis/IntFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/IntFunctions.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/IntFunctions.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/IntFunctions.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/IntFunctions.o36"82D50925-A909-4945-9A5C-C9E2F53718F6-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/MatlabFunctions.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/MatlabFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.952617
+e393283433.003082
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/MatlabFunctions.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/MatlabFunctions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/MatlabFunctions.mc618f4680771b741^60e500690771b741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/MatlabFunctions.m0000000000000000^4298"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/MatlabFunctions.o AcousticSynthesis/MatlabFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/MatlabFunctions.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/MatlabFunctions.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/MatlabFunctions.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/MatlabFunctions.o36"888498F4-0FE5-414C-9F8A-CBA27CE703D8-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/OBSlider.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/OBSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.810032
+e393283432.966676
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/OBSlider.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/OBSlider.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/OBSlider.m3f91cf680771b741^2977f7680771b741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/OBSlider.m0000000000000000^4256"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/OBSlider.o AcousticSynthesis/OBSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/OBSlider.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/OBSlider.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/OBSlider.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/OBSlider.o36"F51631BD-B155-41BD-8AD3-74208C61D91D-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SInt16Functions.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SInt16Functions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.809797
+e393283432.918910
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SInt16Functions.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SInt16Functions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SInt16Functions.m5987cf680771b741^5243eb680771b741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SInt16Functions.m0000000000000000^4298"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SInt16Functions.o AcousticSynthesis/SInt16Functions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SInt16Functions.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SInt16Functions.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SInt16Functions.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SInt16Functions.o36"BD694C0C-319C-4032-A70B-DF307341FBB5-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SimpleFFT.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SimpleFFT.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.968079
+e393283433.119230
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SimpleFFT.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SimpleFFT.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SimpleFFT.mb804f8680771b741^ec851e690771b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SimpleFFT.m0000000000000000^4262"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SimpleFFT.o AcousticSynthesis/SimpleFFT.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SimpleFFT.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SimpleFFT.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SimpleFFT.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SimpleFFT.o36"762225AF-E3D4-441D-9E33-5E07FF039A3D-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SpectrumView.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SpectrumView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.809737
+e393283432.951316
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SpectrumView.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SpectrumView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SpectrumView.m6e86cf680771b741^1a8af3680771b741^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SpectrumView.m0000000000000000^4280"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SpectrumView.o AcousticSynthesis/SpectrumView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SpectrumView.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SpectrumView.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/SpectrumView.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/SpectrumView.o36"2C442A10-B745-40D6-90E0-E2190BF01393-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/TimeEnvelopeViewController.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.972495
+e393283433.083502
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/TimeEnvelopeViewController.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.mca54f9680771b741^856015690771b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.m0000000000000000^4364"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/TimeEnvelopeViewController.o AcousticSynthesis/TimeEnvelopeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/TimeEnvelopeViewController.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/TimeEnvelopeViewController.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/TimeEnvelopeViewController.o36"071B3D17-B140-4194-83F0-7F600989CB84-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/ViewController.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.920186
+e393283433.174522
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/ViewController.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/ViewController.m2ec7eb680771b741^36ad2c690771b741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/ViewController.m0000000000000000^4292"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/ViewController.o AcousticSynthesis/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/ViewController.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/ViewController.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/ViewController.o36"7DE3AD86-8904-4E91-9B3B-E48A51198A13-
+
+CCompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/main.o /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283432.920193
+e393283432.951890
+r1
+xCompileC
+xDerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/main.o
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/main.m30bbeb680771b741^abaef3680771b741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/main.m0000000000000000^4232"CompileC DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/main.o AcousticSynthesis/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -include /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/main.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/main.m -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/main.o36"A9F20D34-4E02-4DEE-B78F-2220A80BA84C-
+
+CCompileXIB /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.xib
+s393283434.552101
+e393283434.598262
+r1
+xCompileXIB
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compiling /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.xibdb6f8d6a0771b741^f627996a0771b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.xib0000000000000000^1016"CompileXIB AcousticSynthesis/FrequencyEnvelopeViewController.xib    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/FrequencyEnvelopeViewController.nib /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/FrequencyEnvelopeViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"5F07D303-736F-4951-9755-95971A15E681-
+
+CCompileXIB /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.xib
+s393283434.552109
+e393283435.143071
+r1
+xCompileXIB
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.xib
+o2013-06-18 17:23:55.091 Interface Builder Cocoa Touch Tool[10420:f07] CFPreferences: user home directory at file://localhost/Users/Jeff/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compiling /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.xibad6e8d6a0771b741^0aa0246b0771b741^-237"2013-06-18 17:23:55.091 Interface Builder Cocoa Touch Tool[10420:f07] CFPreferences: user home directory at file://localhost/Users/Jeff/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.xib0000000000000000^1001"CompileXIB AcousticSynthesis/TimeEnvelopeViewController.xib    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/TimeEnvelopeViewController.nib /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/TimeEnvelopeViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"609D200B-1608-4E68-A085-71B31CE531BB-
+
+CCompileXIB /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/en.lproj/ViewController.xib
+s393283434.552094
+e393283435.290104
+r1
+xCompileXIB
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/en.lproj/ViewController.xib
+o2013-06-18 17:23:55.098 Interface Builder Cocoa Touch Tool[10421:f07] CFPreferences: user home directory at file://localhost/Users/Jeff/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compiling /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/en.lproj/ViewController.xib5c718d6a0771b741^fe434a6b0771b741^-237"2013-06-18 17:23:55.098 Interface Builder Cocoa Touch Tool[10421:f07] CFPreferences: user home directory at file://localhost/Users/Jeff/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/en.lproj/ViewController.xib0000000000000000^992"CompileXIB AcousticSynthesis/en.lproj/ViewController.xib    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/en.lproj/ViewController.nib /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/en.lproj/ViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"2007DA83-5EC0-4C16-96A9-711C741A3149-
+
+CCopyStringsFile /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/en.lproj/InfoPlist.strings AcousticSynthesis/en.lproj/InfoPlist.strings
+s393283434.552076
+e393283434.558231
+r1
+xCopyStringsFile
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/en.lproj/InfoPlist.strings
+xAcousticSynthesis/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy AcousticSynthesis/en.lproj/InfoPlist.strings7a728d6a0771b741^f3e88e6a0771b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/en.lproj/InfoPlist.strings0000000000000000^699"CopyStringsFile DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/en.lproj/InfoPlist.strings AcousticSynthesis/en.lproj/InfoPlist.strings    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/en.lproj -- AcousticSynthesis/en.lproj/InfoPlist.strings36"2E39BE15-EB4F-4198-99DB-AE775EAA5861-
+
+CCpResource "Synthesis Icon.png" "DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Synthesis Icon.png"
+s393283434.565736
+e393283434.570428
+r1
+xCpResource
+xSynthesis Icon.png
+xDerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Synthesis Icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Synthesis Icon.pnge6e9906a0771b741^7506926a0771b741^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Synthesis%20Icon.png000000000080d041^692"CpResource "Synthesis Icon.png" "DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Synthesis Icon.png"    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jeff/Desktop/SMT/AcousticSynthesis/Synthesis Icon.png" /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app36"D175AB8F-AEB8-4166-BE7D-D484FEB7C0E9-
+
+CCpResource AcousticSynthesis/PlotBorder.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/PlotBorder.png
+s393283434.552411
+e393283434.562414
+r1
+xCpResource
+xAcousticSynthesis/PlotBorder.png
+xDerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/PlotBorder.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/PlotBorder.png357e8d6a0771b741^2bfa8f6a0771b741^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/PlotBorder.png000000000080d041^710"CpResource AcousticSynthesis/PlotBorder.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/PlotBorder.png    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/PlotBorder.png /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app36"90EB523E-F782-4B35-AEFF-1A3D1A6F635F-
+
+CCpResource AcousticSynthesis/audioGrid.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/audioGrid.png
+s393283434.552174
+e393283434.560212
+r1
+xCpResource
+xAcousticSynthesis/audioGrid.png
+xDerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/audioGrid.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/audioGrid.pngff768d6a0771b741^1f6a8f6a0771b741^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/audioGrid.png000000000080d041^707"CpResource AcousticSynthesis/audioGrid.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/audioGrid.png    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/audioGrid.png /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app36"A4DD504B-7444-4C45-8CE6-88C47CCE79F1-
+
+CCpResource AcousticSynthesis/bg4.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/bg4.png
+s393283434.559381
+e393283434.564449
+r1
+xCpResource
+xAcousticSynthesis/bg4.png
+xDerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/bg4.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/bg4.png994a8f6a0771b741^6f81906a0771b741^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/bg4.png000000000080d041^689"CpResource AcousticSynthesis/bg4.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/bg4.png    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/bg4.png /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app36"8C8C9563-991E-4B39-8D9A-3072F75721E1-
+
+CCpResource AcousticSynthesis/drexelSlider.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/drexelSlider.png
+s393283434.561412
+e393283434.565987
+r1
+xCpResource
+xAcousticSynthesis/drexelSlider.png
+xDerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/drexelSlider.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/drexelSlider.pngdec98f6a0771b741^97e4906a0771b741^---0#0#0#-19%DVTDocumentLocation2@163"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/drexelSlider.png000000000080d041^716"CpResource AcousticSynthesis/drexelSlider.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/drexelSlider.png    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/drexelSlider.png /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app36"570A596A-8CE2-414D-9FD3-679DA120E21C-
+
+CCpResource AcousticSynthesis/envelopeButton.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/envelopeButton.png
+s393283434.565722
+e393283434.569135
+r1
+xCpResource
+xAcousticSynthesis/envelopeButton.png
+xDerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/envelopeButton.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/envelopeButton.pnga3e9906a0771b741^e6b2916a0771b741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/envelopeButton.png000000000080d041^722"CpResource AcousticSynthesis/envelopeButton.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/envelopeButton.png    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/envelopeButton.png /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app36"EA79583B-F0B6-40EE-B9F2-780AD063FF9B-
+
+CCpResource AcousticSynthesis/playButton.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/playButton.png
+s393283434.563600
+e393283434.568118
+r1
+xCpResource
+xAcousticSynthesis/playButton.png
+xDerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/playButton.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/playButton.pngf756906a0771b741^ca6f916a0771b741^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/playButton.png000000000080d041^710"CpResource AcousticSynthesis/playButton.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/playButton.png    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/playButton.png /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app36"D35BA8B3-6C5F-4522-868F-38A9BED80727-
+
+CCpResource AcousticSynthesis/portrait_background.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/portrait_background.png
+s393283434.559394
+e393283434.565417
+r1
+xCpResource
+xAcousticSynthesis/portrait_background.png
+xDerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/portrait_background.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/portrait_background.pngdc4a8f6a0771b741^6ebf906a0771b741^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/portrait_background.png000000000080d041^737"CpResource AcousticSynthesis/portrait_background.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/portrait_background.png    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/portrait_background.png /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app36"BA57059C-D065-4BD3-9D57-73969DF711D9-
+
+CCpResource AcousticSynthesis/specGrid.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/specGrid.png
+s393283434.552158
+e393283434.561315
+r1
+xCpResource
+xAcousticSynthesis/specGrid.png
+xDerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/specGrid.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/specGrid.png68768d6a0771b741^f2b18f6a0771b741^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/specGrid.png000000000080d041^704"CpResource AcousticSynthesis/specGrid.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/specGrid.png    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/specGrid.png /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app36"011989F0-6953-4CCB-AFFB-35822B6D14BA-
+
+CCpResource AcousticSynthesis/stopButton.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/stopButton.png
+s393283434.562515
+e393283434.567138
+r1
+xCpResource
+xAcousticSynthesis/stopButton.png
+xDerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/stopButton.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/stopButton.png7b12906a0771b741^c22f916a0771b741^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/stopButton.png000000000080d041^710"CpResource AcousticSynthesis/stopButton.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/stopButton.png    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/stopButton.png /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app36"E404FC44-9F65-4DDB-ACE9-D2E3F163E8A0-
+
+CCpResource icon.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/icon.png
+s393283434.552132
+e393283434.559131
+r1
+xCpResource
+xicon.png
+xDerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/icon.png4b758d6a0771b741^85248f6a0771b741^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/icon.png000000000080d041^656"CpResource icon.png DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/icon.png    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jeff/Desktop/SMT/AcousticSynthesis/icon.png /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app36"15242E6D-6310-483B-8F24-11FE66DDE2B8-
+
+CGenerateDSYMFile /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app.dSYM /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/AcousticSynthesis
+s393283434.464451
+e393283434.544390
+r1
+xGenerateDSYMFile
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app.dSYM
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/AcousticSynthesis
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Generate /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app.dSYM51f6766a0771b741^c05c8b6a0771b741^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app.dSYM000000000080d041^850"GenerateDSYMFile DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app.dSYM DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/AcousticSynthesis    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/AcousticSynthesis -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app.dSYM36"9B446161-7EDE-4765-A0D0-8BD41EBD8FDE-
+
+CLd /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/AcousticSynthesis normal i386
+s393283433.181358
+e393283434.457862
+r1
+xLd
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/AcousticSynthesis
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Link /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/AcousticSynthesised812e690771b741^583c756a0771b741^---0#0#0#--1500"Ld DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/AcousticSynthesis normal i386    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator -filelist /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/Objects-normal/i386/AcousticSynthesis.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework AudioToolbox -framework QuartzCore -framework Accelerate -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/AcousticSynthesis36"6EE03A0C-EE9E-4002-A694-96F474B2097F-
+
+CProcessInfoPlistFile /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Info.plist AcousticSynthesis/AcousticSynthesis-Info.plist
+s393283431.780498
+e393283431.784038
+r1
+xProcessInfoPlistFile
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Info.plist
+xAcousticSynthesis/AcousticSynthesis-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Process AcousticSynthesis/AcousticSynthesis-Info.plistadfbc7670771b741^c2c3c8670771b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AcousticSynthesis-Info.plist0000000000000000^846"ProcessInfoPlistFile DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Info.plist AcousticSynthesis/AcousticSynthesis-Info.plist    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AcousticSynthesis/AcousticSynthesis-Info.plist -genpkginfo /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app/Info.plist36"7BA4CA2F-7FFF-4453-BDC5-48FC1111F4F5-
+
+CProcessPCH /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch.pth AcousticSynthesis/AcousticSynthesis-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393283431.792023
+e393283432.802825
+r1
+xProcessPCH
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch.pth
+xAcousticSynthesis/AcousticSynthesis-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile AcousticSynthesis/AcousticSynthesis-Prefix.pcha4e3ca670771b741^4985cd680771b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AcousticSynthesis-Prefix.pch0000000000000000^4114"ProcessPCH DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch.pth AcousticSynthesis/AcousticSynthesis-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-generated-files.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-own-target-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-all-target-headers.hmap -iquote /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/AcousticSynthesis-project-headers.hmap -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources/i386 -I/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/AcousticSynthesis.build/Debug-iphonesimulator/AcousticSynthesis.build/DerivedSources -F/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch.dia -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/AcousticSynthesis/AcousticSynthesis-Prefix.pch -o /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch.pth -MMD -MT dependencies -MF /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Intermediates/PrecompiledHeaders/AcousticSynthesis-Prefix-bxinypgvhcqhldaovvydyyarkuqf/AcousticSynthesis-Prefix.pch.d36"ECF5E784-495C-41CC-9EB2-3AE35D5A4FD5-
+
+CProcessPCH /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Index/PrecompiledHeaders/AcousticSynthesis-Prefix-eztaygnydisoqcctcfrwgxsrrxtr_ast/AcousticSynthesis-Prefix.pch.pth AcousticSynthesis/AcousticSynthesis-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app
+s393283435.298015
+e393283435.304364
+r1
+xTouch
+x/Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Touch /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app96594c6b0771b741^89ea4d6b0771b741^---0#0#0#--492"Touch DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app    cd /Users/Jeff/Desktop/SMT/AcousticSynthesis    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Jeff/Desktop/SMT/AcousticSynthesis/DerivedData/AcousticSynthesis/Build/Products/Debug-iphonesimulator/AcousticSynthesis.app36"FCED79D9-B9D8-46B9-860D-8664A366788E-
+

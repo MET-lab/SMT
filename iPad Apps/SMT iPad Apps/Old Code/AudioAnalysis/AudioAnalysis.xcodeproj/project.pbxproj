@@ -1,0 +1,383 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		424BC98D159667500011B9C7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 424BC98C159667500011B9C7 /* UIKit.framework */; };
+		424BC98F159667500011B9C7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 424BC98E159667500011B9C7 /* Foundation.framework */; };
+		424BC991159667500011B9C7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 424BC990159667500011B9C7 /* CoreGraphics.framework */; };
+		424BC997159667500011B9C7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 424BC995159667500011B9C7 /* InfoPlist.strings */; };
+		424BC999159667500011B9C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 424BC998159667500011B9C7 /* main.m */; };
+		424BC99D159667500011B9C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 424BC99C159667500011B9C7 /* AppDelegate.m */; };
+		424BC9A0159667500011B9C7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 424BC99F159667500011B9C7 /* ViewController.m */; };
+		424BC9A3159667500011B9C7 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 424BC9A1159667500011B9C7 /* ViewController.xib */; };
+		424BC9AD159667740011B9C7 /* AudioInput.m in Sources */ = {isa = PBXBuildFile; fileRef = 424BC9AB159667740011B9C7 /* AudioInput.m */; };
+		424BC9B4159667920011B9C7 /* FloatFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 424BC9B0159667920011B9C7 /* FloatFunctions.m */; };
+		424BC9B5159667920011B9C7 /* MatlabFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 424BC9B3159667920011B9C7 /* MatlabFunctions.m */; };
+		424BC9B8159667A90011B9C7 /* SimpleFFT.m in Sources */ = {isa = PBXBuildFile; fileRef = 424BC9B7159667A90011B9C7 /* SimpleFFT.m */; };
+		424BC9BE159668AD0011B9C7 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 424BC9BD159668AD0011B9C7 /* AudioToolbox.framework */; };
+		424BC9C1159668B10011B9C7 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 424BC9C0159668B10011B9C7 /* Accelerate.framework */; };
+		424BC9C415966C0B0011B9C7 /* AudioFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 424BC9C315966C0B0011B9C7 /* AudioFunctions.m */; };
+		424BC9C815966EB30011B9C7 /* GraphView.m in Sources */ = {isa = PBXBuildFile; fileRef = 424BC9C715966EB30011B9C7 /* GraphView.m */; };
+		424BC9CC159671F00011B9C7 /* GraphFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 424BC9CB159671F00011B9C7 /* GraphFunctions.m */; };
+		42C48A9F159B6C5900DDC04F /* IntFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 42C48A9E159B6C5900DDC04F /* IntFunctions.m */; };
+		42C48B0E159CE95200DDC04F /* DoubleFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 42C48B0B159CE95200DDC04F /* DoubleFunctions.m */; };
+		42C48B0F159CE95200DDC04F /* SInt16Functions.m in Sources */ = {isa = PBXBuildFile; fileRef = 42C48B0D159CE95200DDC04F /* SInt16Functions.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		424BC988159667500011B9C7 /* AudioAnalysis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AudioAnalysis.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		424BC98C159667500011B9C7 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		424BC98E159667500011B9C7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		424BC990159667500011B9C7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		424BC994159667500011B9C7 /* AudioAnalysis-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AudioAnalysis-Info.plist"; sourceTree = "<group>"; };
+		424BC996159667500011B9C7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		424BC998159667500011B9C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		424BC99A159667500011B9C7 /* AudioAnalysis-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AudioAnalysis-Prefix.pch"; sourceTree = "<group>"; };
+		424BC99B159667500011B9C7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		424BC99C159667500011B9C7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		424BC99E159667500011B9C7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		424BC99F159667500011B9C7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		424BC9A2159667500011B9C7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		424BC9AA159667740011B9C7 /* AudioInput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioInput.h; sourceTree = "<group>"; };
+		424BC9AB159667740011B9C7 /* AudioInput.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioInput.m; sourceTree = "<group>"; };
+		424BC9AC159667740011B9C7 /* AudioParameters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioParameters.h; sourceTree = "<group>"; };
+		424BC9AF159667920011B9C7 /* FloatFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FloatFunctions.h; sourceTree = "<group>"; };
+		424BC9B0159667920011B9C7 /* FloatFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FloatFunctions.m; sourceTree = "<group>"; };
+		424BC9B1159667920011B9C7 /* MathFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathFunctions.h; sourceTree = "<group>"; };
+		424BC9B2159667920011B9C7 /* MatlabFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MatlabFunctions.h; sourceTree = "<group>"; };
+		424BC9B3159667920011B9C7 /* MatlabFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MatlabFunctions.m; sourceTree = "<group>"; };
+		424BC9B6159667A90011B9C7 /* SimpleFFT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleFFT.h; sourceTree = "<group>"; };
+		424BC9B7159667A90011B9C7 /* SimpleFFT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleFFT.m; sourceTree = "<group>"; };
+		424BC9BD159668AD0011B9C7 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		424BC9C0159668B10011B9C7 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
+		424BC9C215966C0B0011B9C7 /* AudioFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioFunctions.h; sourceTree = "<group>"; };
+		424BC9C315966C0B0011B9C7 /* AudioFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioFunctions.m; sourceTree = "<group>"; };
+		424BC9C615966EB30011B9C7 /* GraphView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GraphView.h; sourceTree = "<group>"; };
+		424BC9C715966EB30011B9C7 /* GraphView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GraphView.m; sourceTree = "<group>"; };
+		424BC9C91596708D0011B9C7 /* GraphParameters.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GraphParameters.h; sourceTree = "<group>"; };
+		424BC9CA159671F00011B9C7 /* GraphFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GraphFunctions.h; sourceTree = "<group>"; };
+		424BC9CB159671F00011B9C7 /* GraphFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GraphFunctions.m; sourceTree = "<group>"; };
+		42C48A9D159B6C5900DDC04F /* IntFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntFunctions.h; sourceTree = "<group>"; };
+		42C48A9E159B6C5900DDC04F /* IntFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntFunctions.m; sourceTree = "<group>"; };
+		42C48B0A159CE95200DDC04F /* DoubleFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DoubleFunctions.h; sourceTree = "<group>"; };
+		42C48B0B159CE95200DDC04F /* DoubleFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DoubleFunctions.m; sourceTree = "<group>"; };
+		42C48B0C159CE95200DDC04F /* SInt16Functions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SInt16Functions.h; sourceTree = "<group>"; };
+		42C48B0D159CE95200DDC04F /* SInt16Functions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SInt16Functions.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		424BC985159667500011B9C7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				424BC9C1159668B10011B9C7 /* Accelerate.framework in Frameworks */,
+				424BC9BE159668AD0011B9C7 /* AudioToolbox.framework in Frameworks */,
+				424BC98D159667500011B9C7 /* UIKit.framework in Frameworks */,
+				424BC98F159667500011B9C7 /* Foundation.framework in Frameworks */,
+				424BC991159667500011B9C7 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		424BC97D159667500011B9C7 = {
+			isa = PBXGroup;
+			children = (
+				424BC9C0159668B10011B9C7 /* Accelerate.framework */,
+				424BC9BD159668AD0011B9C7 /* AudioToolbox.framework */,
+				424BC992159667500011B9C7 /* AudioAnalysis */,
+				424BC98B159667500011B9C7 /* Frameworks */,
+				424BC989159667500011B9C7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		424BC989159667500011B9C7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				424BC988159667500011B9C7 /* AudioAnalysis.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		424BC98B159667500011B9C7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				424BC98C159667500011B9C7 /* UIKit.framework */,
+				424BC98E159667500011B9C7 /* Foundation.framework */,
+				424BC990159667500011B9C7 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		424BC992159667500011B9C7 /* AudioAnalysis */ = {
+			isa = PBXGroup;
+			children = (
+				424BC9AE1596677B0011B9C7 /* Math Functions */,
+				424BC9C515966E5A0011B9C7 /* Graph View */,
+				424BC9A91596675D0011B9C7 /* Audio Object */,
+				424BC99B159667500011B9C7 /* AppDelegate.h */,
+				424BC99C159667500011B9C7 /* AppDelegate.m */,
+				424BC99E159667500011B9C7 /* ViewController.h */,
+				424BC99F159667500011B9C7 /* ViewController.m */,
+				424BC9A1159667500011B9C7 /* ViewController.xib */,
+				424BC993159667500011B9C7 /* Supporting Files */,
+			);
+			path = AudioAnalysis;
+			sourceTree = "<group>";
+		};
+		424BC993159667500011B9C7 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				424BC994159667500011B9C7 /* AudioAnalysis-Info.plist */,
+				424BC995159667500011B9C7 /* InfoPlist.strings */,
+				424BC998159667500011B9C7 /* main.m */,
+				424BC99A159667500011B9C7 /* AudioAnalysis-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		424BC9A91596675D0011B9C7 /* Audio Object */ = {
+			isa = PBXGroup;
+			children = (
+				424BC9AA159667740011B9C7 /* AudioInput.h */,
+				424BC9AB159667740011B9C7 /* AudioInput.m */,
+				424BC9AC159667740011B9C7 /* AudioParameters.h */,
+			);
+			name = "Audio Object";
+			sourceTree = "<group>";
+		};
+		424BC9AE1596677B0011B9C7 /* Math Functions */ = {
+			isa = PBXGroup;
+			children = (
+				42C48B0A159CE95200DDC04F /* DoubleFunctions.h */,
+				42C48B0B159CE95200DDC04F /* DoubleFunctions.m */,
+				42C48B0C159CE95200DDC04F /* SInt16Functions.h */,
+				42C48B0D159CE95200DDC04F /* SInt16Functions.m */,
+				424BC9B6159667A90011B9C7 /* SimpleFFT.h */,
+				424BC9B7159667A90011B9C7 /* SimpleFFT.m */,
+				424BC9AF159667920011B9C7 /* FloatFunctions.h */,
+				424BC9B0159667920011B9C7 /* FloatFunctions.m */,
+				424BC9B1159667920011B9C7 /* MathFunctions.h */,
+				424BC9B2159667920011B9C7 /* MatlabFunctions.h */,
+				424BC9B3159667920011B9C7 /* MatlabFunctions.m */,
+				424BC9C215966C0B0011B9C7 /* AudioFunctions.h */,
+				424BC9C315966C0B0011B9C7 /* AudioFunctions.m */,
+				42C48A9D159B6C5900DDC04F /* IntFunctions.h */,
+				42C48A9E159B6C5900DDC04F /* IntFunctions.m */,
+			);
+			name = "Math Functions";
+			sourceTree = "<group>";
+		};
+		424BC9C515966E5A0011B9C7 /* Graph View */ = {
+			isa = PBXGroup;
+			children = (
+				424BC9C91596708D0011B9C7 /* GraphParameters.h */,
+				424BC9C615966EB30011B9C7 /* GraphView.h */,
+				424BC9C715966EB30011B9C7 /* GraphView.m */,
+				424BC9CA159671F00011B9C7 /* GraphFunctions.h */,
+				424BC9CB159671F00011B9C7 /* GraphFunctions.m */,
+			);
+			name = "Graph View";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		424BC987159667500011B9C7 /* AudioAnalysis */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 424BC9A6159667500011B9C7 /* Build configuration list for PBXNativeTarget "AudioAnalysis" */;
+			buildPhases = (
+				424BC984159667500011B9C7 /* Sources */,
+				424BC985159667500011B9C7 /* Frameworks */,
+				424BC986159667500011B9C7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AudioAnalysis;
+			productName = AudioAnalysis;
+			productReference = 424BC988159667500011B9C7 /* AudioAnalysis.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		424BC97F159667500011B9C7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+				ORGANIZATIONNAME = "Drexel University";
+			};
+			buildConfigurationList = 424BC982159667500011B9C7 /* Build configuration list for PBXProject "AudioAnalysis" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 424BC97D159667500011B9C7;
+			productRefGroup = 424BC989159667500011B9C7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				424BC987159667500011B9C7 /* AudioAnalysis */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		424BC986159667500011B9C7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				424BC997159667500011B9C7 /* InfoPlist.strings in Resources */,
+				424BC9A3159667500011B9C7 /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		424BC984159667500011B9C7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				424BC999159667500011B9C7 /* main.m in Sources */,
+				424BC99D159667500011B9C7 /* AppDelegate.m in Sources */,
+				424BC9A0159667500011B9C7 /* ViewController.m in Sources */,
+				424BC9AD159667740011B9C7 /* AudioInput.m in Sources */,
+				424BC9B4159667920011B9C7 /* FloatFunctions.m in Sources */,
+				424BC9B5159667920011B9C7 /* MatlabFunctions.m in Sources */,
+				424BC9B8159667A90011B9C7 /* SimpleFFT.m in Sources */,
+				424BC9C415966C0B0011B9C7 /* AudioFunctions.m in Sources */,
+				424BC9C815966EB30011B9C7 /* GraphView.m in Sources */,
+				424BC9CC159671F00011B9C7 /* GraphFunctions.m in Sources */,
+				42C48A9F159B6C5900DDC04F /* IntFunctions.m in Sources */,
+				42C48B0E159CE95200DDC04F /* DoubleFunctions.m in Sources */,
+				42C48B0F159CE95200DDC04F /* SInt16Functions.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		424BC995159667500011B9C7 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				424BC996159667500011B9C7 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		424BC9A1159667500011B9C7 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				424BC9A2159667500011B9C7 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		424BC9A4159667500011B9C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		424BC9A5159667500011B9C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		424BC9A7159667500011B9C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AudioAnalysis/AudioAnalysis-Prefix.pch";
+				INFOPLIST_FILE = "AudioAnalysis/AudioAnalysis-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		424BC9A8159667500011B9C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AudioAnalysis/AudioAnalysis-Prefix.pch";
+				INFOPLIST_FILE = "AudioAnalysis/AudioAnalysis-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		424BC982159667500011B9C7 /* Build configuration list for PBXProject "AudioAnalysis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				424BC9A4159667500011B9C7 /* Debug */,
+				424BC9A5159667500011B9C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		424BC9A6159667500011B9C7 /* Build configuration list for PBXNativeTarget "AudioAnalysis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				424BC9A7159667500011B9C7 /* Debug */,
+				424BC9A8159667500011B9C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 424BC97F159667500011B9C7 /* Project object */;
+}

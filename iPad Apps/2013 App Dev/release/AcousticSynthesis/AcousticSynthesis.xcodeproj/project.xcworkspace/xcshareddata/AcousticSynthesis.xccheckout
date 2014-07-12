@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>53B3E537-8A29-4347-B142-58DE83A9B233</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AcousticSynthesis</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B3BA588C-72B9-43D5-87F7-D7B3F1A8410E</key>
+		<string>svn+ssh://schubert.ece.drexel.edu/svnProjects/SMT_iOS/AcousticSynthesis/AcousticSynthesis.xcodeproj/project.xcworkspace</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string></string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B3BA588C-72B9-43D5-87F7-D7B3F1A8410E</key>
+		<string></string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>B3BA588C-72B9-43D5-87F7-D7B3F1A8410E</key>
+		<string>svn+ssh://schubert.ece.drexel.edu/svnProjects</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B3BA588C-72B9-43D5-87F7-D7B3F1A8410E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B3BA588C-72B9-43D5-87F7-D7B3F1A8410E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>project.xcworkspace</string>
+		</dict>
+	</array>
+</dict>
+</plist>

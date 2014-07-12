@@ -1,0 +1,1093 @@
+TSMTSoundFX
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Info.plist" AcousticSynthesis/SMTSoundFX-Info.plist
+cProcessPCH "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch.pth" AcousticSynthesis/SMTSoundFX-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-andwpifxjjafvogimdjxcnbiadgb/SMTSoundFX-Prefix.pch.pth" AcousticSynthesis/SMTSoundFX-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/ViewController.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AppDelegate.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/IntFunctions.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/IntFunctions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/MatlabFunctions.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/MatlabFunctions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SInt16Functions.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SInt16Functions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/main.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FrequencyEnvelopeViewController.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/EnvelopeView.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/EnvelopeView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DrawView.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DrawView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SpectrumView.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SpectrumView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/OBSlider.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/OBSlider.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DoubleFunctions.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DoubleFunctions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FloatFunctions.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FloatFunctions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioFunctions.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioFunctions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SimpleFFT.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SimpleFFT.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/TimeEnvelopeViewController.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/CFilterButterworth24db.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/CFilterButterworth24db.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/wsfir.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioOutput.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/SMTSoundFX" normal i386
+cGenerateDSYMFile "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app.dSYM" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/SMTSoundFX"
+cCompileXIB "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/en.lproj/ViewController.xib"
+cCompileXIB "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.xib"
+cCopyStringsFile "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/en.lproj/InfoPlist.strings" AcousticSynthesis/en.lproj/InfoPlist.strings
+cCpResource AcousticSynthesis/specGrid.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/specGrid.png
+cCpResource icon.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/icon.png
+cCompileXIB "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.xib"
+cCpResource AcousticSynthesis/audioGrid.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/audioGrid.png
+cCpResource AcousticSynthesis/PlotBorder.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/PlotBorder.png
+cCpResource AcousticSynthesis/bg4.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/bg4.png
+cCpResource AcousticSynthesis/portrait_background.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/portrait_background.png
+cCpResource AcousticSynthesis/stopButton.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/stopButton.png
+cCpResource AcousticSynthesis/playButton.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/playButton.png
+cCpResource AcousticSynthesis/drexelSlider.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/drexelSlider.png
+cCpResource AcousticSynthesis/envelopeButton.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/envelopeButton.png
+cCpResource "Synthesis Icon.png" "DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Synthesis Icon.png"
+cTouch "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c00000000516DD9380000000000000110
+t1366153528
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000510FE16D0000000000003530
+t1359995245
+s13616
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000510FE17000000000003D4DF0
+t1359995248
+s4017648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000510FE1720000000000228FE0
+t1359995250
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000510FE17300000000003DDFA0
+t1359995251
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000510FE17800000000001D5750
+t1359995256
+s1922896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510FE17A0000000000AB6230
+t1359995258
+s11231792
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AppDelegate.h
+c0000000051C095CF0000000000000181
+t1371575759
+s385
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AppDelegate.m
+c0000000051C095CF0000000000000961
+t1371575759
+s2401
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioFunctions.h
+c0000000051C095CF000000000000012A
+t1371575759
+s298
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioFunctions.m
+c0000000051C095CF00000000000001FB
+t1371575759
+s507
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.h
+c0000000051C095CF0000000000000351
+t1371575759
+s849
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m
+c0000000051C095CF00000000000014D7
+t1371575759
+s5335
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioParameters.h
+c0000000051C095CF00000000000003D1
+t1371575759
+s977
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/CFilterButterworth24db.h
+c0000000051C3860C0000000000000235
+t1371768332
+s565
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/CFilterButterworth24db.mm
+c0000000051C38603000000000000092A
+t1371768323
+s2346
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DoubleFunctions.h
+c0000000051C095CF000000000000025E
+t1371575759
+s606
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DoubleFunctions.m
+c0000000051C095CF00000000000004B7
+t1371575759
+s1207
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DrawView.h
+c0000000051C095CF00000000000003F6
+t1371575759
+s1014
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DrawView.m
+c0000000051C4B4070000000000001D4B
+t1371845639
+s7499
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/EnvelopeView.h
+c0000000051C095CF0000000000000401
+t1371575759
+s1025
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/EnvelopeView.m
+c0000000051C095CF0000000000001E7A
+t1371575759
+s7802
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FloatFunctions.h
+c0000000051C095CF0000000000000311
+t1371575759
+s785
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FloatFunctions.m
+c0000000051C095CF0000000000000960
+t1371575759
+s2400
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.h
+c0000000051C095CF00000000000002E9
+t1371575759
+s745
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.m
+c0000000051C095CF0000000000001234
+t1371575759
+s4660
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.xib
+c0000000051C095CF00000000000021B9
+t1371575759
+s8633
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/IntFunctions.h
+c0000000051C095CF00000000000001AC
+t1371575759
+s428
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/IntFunctions.m
+c0000000051C095CF00000000000003DF
+t1371575759
+s991
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/MathFunctions.h
+c0000000051C095CF0000000000000125
+t1371575759
+s293
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/MatlabFunctions.h
+c0000000051C095CF00000000000001AA
+t1371575759
+s426
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/MatlabFunctions.m
+c0000000051C095CF000000000000032A
+t1371575759
+s810
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/OBSlider.h
+c0000000051C095CF0000000000000174
+t1371575759
+s372
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/OBSlider.m
+c0000000051C095CF0000000000001AA9
+t1371575759
+s6825
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/PlotBorder.png
+c0000000051C095CF0000000000007FBA
+t1371575759
+s32698
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SInt16Functions.h
+c0000000051C095CF0000000000000265
+t1371575759
+s613
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SInt16Functions.m
+c0000000051C095CF00000000000004BD
+t1371575759
+s1213
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SMTSoundFX-Prefix.pch
+c0000000051C095CF0000000000000151
+t1371575759
+s337
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SimpleFFT.h
+c0000000051C095CF000000000000030D
+t1371575759
+s781
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SimpleFFT.m
+c0000000051C095CF0000000000000DEF
+t1371575759
+s3567
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SpectrumView.h
+c0000000051C095CF0000000000000162
+t1371575759
+s354
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SpectrumView.m
+c0000000051C095CF00000000000007F0
+t1371575759
+s2032
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.h
+c0000000051C095CF00000000000002A1
+t1371575759
+s673
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.m
+c0000000051C095CF00000000000011E1
+t1371575759
+s4577
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.xib
+c0000000051C095CF0000000000002633
+t1371575759
+s9779
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/ViewController.h
+c0000000051C75CCB0000000000000D5A
+t1372019915
+s3418
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/ViewController.m
+c0000000051C75CF70000000000005294
+t1372019959
+s21140
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/audioGrid.png
+c0000000051C095CF00000000000015D4
+t1371575759
+s5588
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/bg4.png
+c0000000051C095CF00000000000C0ECE
+t1371575759
+s790222
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/drexelSlider.png
+c0000000051C095CF0000000000000C21
+t1371575759
+s3105
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/en.lproj/InfoPlist.strings
+c0000000051C095CF000000000000002D
+t1371575759
+s45
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/en.lproj/ViewController.xib
+c0000000051C75D0E000000000005FB53
+t1372019982
+s392019
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/envelopeButton.png
+c0000000051C095CF0000000000001683
+t1371575759
+s5763
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/main.m
+c0000000051C095CF0000000000000165
+t1371575759
+s357
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/playButton.png
+c0000000051C095CF000000000000E432
+t1371575759
+s58418
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/portrait_background.png
+c0000000051C095CF00000000000AEC16
+t1371575759
+s715798
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/specGrid.png
+c0000000051C095CF0000000000001547
+t1371575759
+s5447
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/stopButton.png
+c0000000051C095CF000000000000DA03
+t1371575759
+s55811
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.h
+c0000000051C387E50000000000001993
+t1371768805
+s6547
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm
+c0000000051C3878900000000000000BC
+t1371768713
+s188
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-andwpifxjjafvogimdjxcnbiadgb/SMTSoundFX-Prefix.pch.pth
+t1371776342
+s5451816
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch.pth
+t1371685201
+s4675424
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AppDelegate.o
+t1371912245
+s95340
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioFunctions.o
+t1371685202
+s4872
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioOutput.o
+t1371685202
+s27520
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/CFilterButterworth24db.o
+t1371776342
+s7112
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DoubleFunctions.o
+t1371685202
+s8448
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DrawView.o
+t1371912245
+s96452
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/EnvelopeView.o
+t1371685202
+s97004
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FloatFunctions.o
+t1371685202
+s11824
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FrequencyEnvelopeViewController.o
+t1371685202
+s91760
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/IntFunctions.o
+t1371685202
+s6856
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/MatlabFunctions.o
+t1371685202
+s6216
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/OBSlider.o
+t1371685202
+s93244
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SInt16Functions.o
+t1371685202
+s6384
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SMTSoundFX.LinkFileList
+c0000000051C3A5550000000000000D8D
+t1371776341
+s3469
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SimpleFFT.o
+t1371685202
+s14020
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SpectrumView.o
+t1371685202
+s74336
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/TimeEnvelopeViewController.o
+t1371685202
+s89108
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/ViewController.o
+t1371912245
+s148356
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/main.o
+t1371685202
+s3324
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/wsfir.o
+t1371776342
+s9336
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app
+t1371912248
+s646
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app.dSYM
+t1371912245
+s102
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/FrequencyEnvelopeViewController.nib
+t1371685203
+s1456
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Info.plist
+t1371685198
+s875
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/PkgInfo
+t1371685198
+s8
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/PlotBorder.png
+t1371685203
+s32698
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/SMTSoundFX
+t1371912245
+s194656
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Synthesis Icon.png
+t1371685203
+s2919
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/TimeEnvelopeViewController.nib
+t1371685203
+s1451
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/audioGrid.png
+t1371685203
+s5588
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/bg4.png
+t1371685203
+s790222
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/drexelSlider.png
+t1371685203
+s3105
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/en.lproj/InfoPlist.strings
+t1371685203
+s42
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/en.lproj/ViewController.nib
+t1371912248
+s4207
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/envelopeButton.png
+t1371685203
+s5763
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/icon.png
+t1371685203
+s7977
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/playButton.png
+t1371685203
+s58418
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/portrait_background.png
+t1371685203
+s715798
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/specGrid.png
+t1371685203
+s5447
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/stopButton.png
+t1371685203
+s55811
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/Synthesis Icon.png
+c0000000051C095CF0000000000000B67
+t1371575759
+s2919
+
+N/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/icon.png
+c0000000051C095CF0000000000001F29
+t1371575759
+s7977
+
+NAcousticSynthesis/SMTSoundFX-Info.plist
+c0000000051C095CF000000000000051D
+t1371575759
+s1309
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioFunctions.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/CFilterButterworth24db.mm"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DoubleFunctions.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DrawView.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/EnvelopeView.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FloatFunctions.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/IntFunctions.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/MatlabFunctions.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/OBSlider.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SInt16Functions.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SimpleFFT.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SpectrumView.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/ViewController.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/main.m"
+r0
+
+CBuild AST from "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies62a08b8f9477b741^28b983909477b741^---0#1#0#--18"Check dependencies36"DDEE2124-7CAB-4676-B215-DA0EBC7AEDB4-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AppDelegate.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393712784.542375
+e393712784.777548
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AppDelegate.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AppDelegate.m363e8b909477b741^130cc7909477b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AppDelegate.m0000000000000000^4099"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AppDelegate.o AcousticSynthesis/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AppDelegate.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AppDelegate.o"36"F013CD7C-4DEE-4D29-8853-4D0FCE72EAFA-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioFunctions.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioFunctions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.205777
+e393378002.270202
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioFunctions.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioFunctions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioFunctions.m14d034d27872b741^443545d27872b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioFunctions.m0000000000000000^4117"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioFunctions.o AcousticSynthesis/AudioFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioFunctions.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioFunctions.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioFunctions.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioFunctions.o"36"4FAC400A-1B4C-4AB9-9C6A-32418158993E-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioOutput.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.208162
+e393378002.578493
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioOutput.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m:71:9: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]
+o        NSAssert1(err == noErr, @"Error initializing unit: %ld", err);
+o        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'
+o#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))
+o                                                                       ^~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'
+o                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \
+o                                                          ^
+o/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m:74:9: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]
+o        NSAssert1(err == noErr, @"Error starting unit: %ld", err);
+o        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'
+o#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))
+o                                                                       ^~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'
+o                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \
+o                                                          ^
+o/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m:97:2: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]
+o        NSAssert1(toneUnit, @"Error creating unit: %ld", err);
+o        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'
+o#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))
+o                                                                       ^~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'
+o                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \
+o                                                          ^
+o/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m:109:2: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]
+o        NSAssert1(err == noErr, @"Error setting callback: %ld", err);
+o        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'
+o#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))
+o                                                                       ^~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'
+o                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \
+o                                                          ^
+o/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m:130:2: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]
+o        NSAssert1(err == noErr, @"Error setting stream format: %ld", err);
+o        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'
+o#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))
+o                                                                       ^~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'
+o                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \
+o                                                          ^
+o5 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m047635d27872b741^481694d27872b741^-5381"/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m:71:9: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]        NSAssert1(err == noErr, @"Error initializing unit: %ld", err);        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))                                                                       ^~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \                                                          ^/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m:74:9: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]        NSAssert1(err == noErr, @"Error starting unit: %ld", err);        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))                                                                       ^~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \                                                          ^/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m:97:2: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]        NSAssert1(toneUnit, @"Error creating unit: %ld", err);        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))                                                                       ^~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \                                                          ^/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m:109:2: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]        NSAssert1(err == noErr, @"Error setting callback: %ld", err);        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))                                                                       ^~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \                                                          ^/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m:130:2: warning: format specifies type 'long' but the argument has type 'OSErr' (aka 'short') [-Wformat]        NSAssert1(err == noErr, @"Error setting stream format: %ld", err);        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:134:72: note: expanded from macro 'NSAssert1'#define NSAssert1(condition, desc, arg1) NSAssert((condition), (desc), (arg1))                                                                       ^~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h:102:49: note: expanded from macro 'NSAssert'                lineNumber:__LINE__ description:(desc), ##__VA_ARGS__]; \                                                          ^5 warnings generated.5(36%IDEClangDiagnosticActivityLogMessage2@76"Format specifies type 'long' but the argument has type 'OSErr' (aka 'short')-393378002#18446744073709551615#0#2(2@31"Expanded from macro 'NSAssert1'-393378002#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#71#4238#0#30"Apple LLVM compiler 4.2 Notice2(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#77#4238#5#3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^70#59#70#62#2118#3#-2@30"Expanded from macro 'NSAssert'-393378002#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^101#48#101#48#3359#0#30"Apple LLVM compiler 4.2 Notice1(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^70#59#70#62#2118#3#-1#27"com.apple.dt.IDE.diagnostic3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^70#8#70#8#0#0#19"Format String Issue2(3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^70#8#70#69#2067#60#3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^70#59#70#62#2118#3#-2@76"Format specifies type 'long' but the argument has type 'OSErr' (aka 'short')-393378002#18446744073709551615#0#2(2@31"Expanded from macro 'NSAssert1'-393378002#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#71#4238#0#30"Apple LLVM compiler 4.2 Notice2(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#77#4238#5#3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^73#55#73#58#2257#3#-2@30"Expanded from macro 'NSAssert'-393378002#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^101#48#101#48#3359#0#30"Apple LLVM compiler 4.2 Notice1(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^73#55#73#58#2257#3#-1#27"com.apple.dt.IDE.diagnostic3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^73#8#73#8#0#0#19"Format String Issue2(3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^73#8#73#65#2210#56#3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^73#55#73#58#2257#3#-2@76"Format specifies type 'long' but the argument has type 'OSErr' (aka 'short')-393378002#18446744073709551615#0#2(2@31"Expanded from macro 'NSAssert1'-393378002#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#71#4238#0#30"Apple LLVM compiler 4.2 Notice2(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#77#4238#5#3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^96#44#96#47#3247#3#-2@30"Expanded from macro 'NSAssert'-393378002#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^101#48#101#48#3359#0#30"Apple LLVM compiler 4.2 Notice1(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^96#44#96#47#3247#3#-1#27"com.apple.dt.IDE.diagnostic3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^96#1#96#1#0#0#19"Format String Issue2(3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^96#1#96#54#3204#52#3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^96#44#96#47#3247#3#-2@76"Format specifies type 'long' but the argument has type 'OSErr' (aka 'short')-393378002#18446744073709551615#0#2(2@31"Expanded from macro 'NSAssert1'-393378002#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#71#4238#0#30"Apple LLVM compiler 4.2 Notice2(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#77#4238#5#3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^108#51#108#54#3755#3#-2@30"Expanded from macro 'NSAssert'-393378002#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^101#48#101#48#3359#0#30"Apple LLVM compiler 4.2 Notice1(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^108#51#108#54#3755#3#-1#27"com.apple.dt.IDE.diagnostic3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^108#1#108#1#0#0#19"Format String Issue2(3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^108#1#108#61#3705#59#3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^108#51#108#54#3755#3#-2@76"Format specifies type 'long' but the argument has type 'OSErr' (aka 'short')-393378002#18446744073709551615#0#2(2@31"Expanded from macro 'NSAssert1'-393378002#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#71#4238#0#30"Apple LLVM compiler 4.2 Notice2(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^133#71#133#77#4238#5#3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^129#56#129#59#4802#3#-2@30"Expanded from macro 'NSAssert'-393378002#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^101#48#101#48#3359#0#30"Apple LLVM compiler 4.2 Notice1(3@200"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h0000000000000000^129#56#129#59#4802#3#-1#27"com.apple.dt.IDE.diagnostic3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^129#1#129#1#0#0#19"Format String Issue2(3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^129#1#129#66#4747#64#3@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^129#56#129#59#4802#3#-0#0#0#-19%DVTDocumentLocation4@98"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/AudioOutput.m0000000000000000^4099"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioOutput.o AcousticSynthesis/AudioOutput.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioOutput.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioOutput.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/AudioOutput.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/AudioOutput.o"36"1C35322B-E8E2-4B2B-8616-062B66BFC4FB-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/CFilterButterworth24db.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/CFilterButterworth24db.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s393469142.685367
+e393469142.710260
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/CFilterButterworth24db.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/CFilterButterworth24db.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/CFilterButterworth24db.mmc18eafd6dc73b741^39d2b5d6dc73b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/CFilterButterworth24db.mm0000000000000000^4287"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/CFilterButterworth24db.o AcousticSynthesis/CFilterButterworth24db.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-andwpifxjjafvogimdjxcnbiadgb/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/CFilterButterworth24db.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/CFilterButterworth24db.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/CFilterButterworth24db.mm" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/CFilterButterworth24db.o"36"3DCBE5FB-31B2-4687-BB3D-5B54142AEB82-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DoubleFunctions.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DoubleFunctions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.130552
+e393378002.206964
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DoubleFunctions.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DoubleFunctions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DoubleFunctions.m018621d27872b741^7bfa34d27872b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/DoubleFunctions.m0000000000000000^4123"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DoubleFunctions.o AcousticSynthesis/DoubleFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DoubleFunctions.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DoubleFunctions.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DoubleFunctions.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DoubleFunctions.o"36"338D0EF1-A4EA-488C-B492-3DA347717122-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DrawView.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DrawView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393605045.100755
+e393605045.317255
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DrawView.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DrawView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DrawView.m57ea19b5ef75b741^f83651b5ef75b741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/DrawView.m0000000000000000^4081"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DrawView.o AcousticSynthesis/DrawView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DrawView.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DrawView.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/DrawView.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/DrawView.o"36"B8C798B3-E631-490B-921B-10E855EB71A2-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/EnvelopeView.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/EnvelopeView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.208171
+e393378002.332154
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/EnvelopeView.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/EnvelopeView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/EnvelopeView.mdc7e35d27872b741^7d0955d27872b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/EnvelopeView.m0000000000000000^4105"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/EnvelopeView.o AcousticSynthesis/EnvelopeView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/EnvelopeView.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/EnvelopeView.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/EnvelopeView.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/EnvelopeView.o"36"14536876-0EAF-48E5-AD14-14165D82BE15-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FloatFunctions.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FloatFunctions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.204035
+e393378002.270239
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FloatFunctions.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FloatFunctions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FloatFunctions.mf75634d27872b741^863945d27872b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/FloatFunctions.m0000000000000000^4117"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FloatFunctions.o AcousticSynthesis/FloatFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FloatFunctions.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FloatFunctions.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FloatFunctions.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FloatFunctions.o"36"75765866-A54B-40C3-8C7E-B7E41C24B560-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FrequencyEnvelopeViewController.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.271462
+e393378002.333027
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FrequencyEnvelopeViewController.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.ma7b145d27872b741^104155d27872b741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.m0000000000000000^4219"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FrequencyEnvelopeViewController.o AcousticSynthesis/FrequencyEnvelopeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FrequencyEnvelopeViewController.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FrequencyEnvelopeViewController.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/FrequencyEnvelopeViewController.o"36"D36DEAAD-99D3-44B8-BB09-A0D6A9A8DD5B-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/IntFunctions.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/IntFunctions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.043517
+e393378002.129535
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/IntFunctions.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/IntFunctions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/IntFunctions.m7f6b0bd27872b741^d42721d27872b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/IntFunctions.m0000000000000000^4105"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/IntFunctions.o AcousticSynthesis/IntFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/IntFunctions.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/IntFunctions.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/IntFunctions.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/IntFunctions.o"36"06B60D10-A107-470D-95A7-110E1AE16B43-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/MatlabFunctions.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/MatlabFunctions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.043519
+e393378002.129255
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/MatlabFunctions.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/MatlabFunctions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/MatlabFunctions.m44520bd27872b741^f01521d27872b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/MatlabFunctions.m0000000000000000^4123"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/MatlabFunctions.o AcousticSynthesis/MatlabFunctions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/MatlabFunctions.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/MatlabFunctions.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/MatlabFunctions.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/MatlabFunctions.o"36"B42C9B4C-4005-4AB7-A7FE-B72C6BFF8B06-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/OBSlider.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/OBSlider.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.204041
+e393378002.330860
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/OBSlider.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/OBSlider.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/OBSlider.mc55634d27872b741^85b254d27872b741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/OBSlider.m0000000000000000^4081"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/OBSlider.o AcousticSynthesis/OBSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/OBSlider.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/OBSlider.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/OBSlider.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/OBSlider.o"36"161B1D72-C0C5-4E24-836E-E77BAB4B8515-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SInt16Functions.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SInt16Functions.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.043532
+e393378002.118548
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SInt16Functions.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SInt16Functions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SInt16Functions.m9f730bd27872b741^64571ed27872b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/SInt16Functions.m0000000000000000^4123"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SInt16Functions.o AcousticSynthesis/SInt16Functions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SInt16Functions.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SInt16Functions.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SInt16Functions.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SInt16Functions.o"36"99563C25-89B1-471B-AC3B-590EF76B08F4-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SimpleFFT.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SimpleFFT.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.043584
+e393378002.579458
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SimpleFFT.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SimpleFFT.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SimpleFFT.mb1500bd27872b741^3a5794d27872b741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/SimpleFFT.m0000000000000000^4087"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SimpleFFT.o AcousticSynthesis/SimpleFFT.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SimpleFFT.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SimpleFFT.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SimpleFFT.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SimpleFFT.o"36"D08BF46C-4D78-46F0-BFA6-8A01C8629679-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SpectrumView.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SpectrumView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.130554
+e393378002.207606
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SpectrumView.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SpectrumView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SpectrumView.m128621d27872b741^d12435d27872b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/SpectrumView.m0000000000000000^4105"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SpectrumView.o AcousticSynthesis/SpectrumView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SpectrumView.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SpectrumView.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SpectrumView.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SpectrumView.o"36"22FC78D2-B7A1-43C3-8F31-11DF2C78CC51-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/TimeEnvelopeViewController.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.043592
+e393378002.204449
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/TimeEnvelopeViewController.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.me3500bd27872b741^2e5634d27872b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.m0000000000000000^4189"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/TimeEnvelopeViewController.o AcousticSynthesis/TimeEnvelopeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/TimeEnvelopeViewController.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/TimeEnvelopeViewController.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/TimeEnvelopeViewController.o"36"75F395E1-3BB2-476F-91AD-270C1B0061C2-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/ViewController.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393712784.542276
+e393712784.810538
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/ViewController.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/ViewController.mfd2f8b909477b741^e57ecf909477b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/ViewController.m0000000000000000^4117"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/ViewController.o AcousticSynthesis/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/ViewController.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/ViewController.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/ViewController.o"36"17B5364D-F6CF-4C0E-9118-EC595C645A36-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/main.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393378002.119894
+e393378002.202785
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/main.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/main.md5cc1ed27872b741^9be833d27872b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/main.m0000000000000000^4057"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/main.o AcousticSynthesis/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/main.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/main.m" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/main.o"36"36383BCC-8D6B-466F-BFC5-8C0D2D7EFD1E-
+
+CCompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/wsfir.o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s393469142.685371
+e393469142.721404
+r1
+xCompileC
+xDerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/wsfir.o
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm:11:17: warning: cannot find interface declaration for 'wsfir'
+o@implementation wsfir
+o                ^
+o/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm:11:17: warning: class 'wsfir' defined without specifying a base class [-Wobjc-root-class]
+o/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm:11:22: note: add a super class to fix this problem
+o@implementation wsfir
+o                     ^
+o                      : NSObject 
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm3693afd6dc73b741^69adb8d6dc73b741^-566"/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm:11:17: warning: cannot find interface declaration for 'wsfir'@implementation wsfir                ^/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm:11:17: warning: class 'wsfir' defined without specifying a base class [-Wobjc-root-class]/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm:11:22: note: add a super class to fix this problem@implementation wsfir                     ^                      : NSObject 2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@45"Cannot find interface declaration for 'wsfir'-393469142#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@93"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/wsfir.mm0000000000000000^10#16#10#16#176#0#14"Semantic Issue--2@53"Class 'wsfir' defined without specifying a base class-393469142#18446744073709551615#0#1(2@37"Add a super class to fix this problem-393469142#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/wsfir.mm0000000000000000^10#21#10#21#181#0#14"Semantic Issue1(3@93"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/wsfir.mm0000000000000000^10#21#10#21#181#0#-1#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/wsfir.mm0000000000000000^10#16#10#16#176#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@93"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/wsfir.mm0000000000000000^4185"CompileC DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/wsfir.o AcousticSynthesis/wsfir.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -include "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-andwpifxjjafvogimdjxcnbiadgb/SMTSoundFX-Prefix.pch" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/wsfir.d" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/wsfir.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/wsfir.mm" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/wsfir.o"36"201F9D53-9A83-422F-BA48-7F615B75BF23-
+
+CCompileXIB "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.xib"
+s393378003.262636
+e393378003.999800
+r1
+xCompileXIB
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.xib
+o2013-06-19 19:40:03.955 Interface Builder Cocoa Touch Tool[20058:f07] CFPreferences: user home directory at file://localhost/Users/Jeff/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compiling /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.xib6b6043d37872b741^3df2ffd37872b741^-237"2013-06-19 19:40:03.955 Interface Builder Cocoa Touch Tool[20058:f07] CFPreferences: user home directory at file://localhost/Users/Jeff/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.xib0000000000000000^1023"CompileXIB AcousticSynthesis/FrequencyEnvelopeViewController.xib    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/FrequencyEnvelopeViewController.nib" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/FrequencyEnvelopeViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"77109E92-C0C8-49A0-9654-3F699F36F157-
+
+CCompileXIB "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.xib"
+s393378003.262635
+e393378003.540729
+r1
+xCompileXIB
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compiling /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.xib375143d37872b741^f46c8ad37872b741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.xib0000000000000000^1008"CompileXIB AcousticSynthesis/TimeEnvelopeViewController.xib    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/TimeEnvelopeViewController.nib" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/TimeEnvelopeViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"AB1CA682-2941-4506-A318-1979044222D9-
+
+CCompileXIB "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/en.lproj/ViewController.xib"
+s393712785.050966
+e393712785.203709
+r1
+xCompileXIB
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compiling /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/en.lproj/ViewController.xib522a0d919477b741^bb2634919477b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/en.lproj/ViewController.xib0000000000000000^999"CompileXIB AcousticSynthesis/en.lproj/ViewController.xib    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/en.lproj/ViewController.nib" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/en.lproj/ViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"5162108A-FF4B-422A-B531-70F3DB7AC980-
+
+CCopyStringsFile "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/en.lproj/InfoPlist.strings" AcousticSynthesis/en.lproj/InfoPlist.strings
+s393378003.262625
+e393378003.315683
+r1
+xCopyStringsFile
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/en.lproj/InfoPlist.strings
+xAcousticSynthesis/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy AcousticSynthesis/en.lproj/InfoPlist.strings875243d37872b741^31d150d37872b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/en.lproj/InfoPlist.strings0000000000000000^685"CopyStringsFile DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/en.lproj/InfoPlist.strings AcousticSynthesis/en.lproj/InfoPlist.strings    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/en.lproj" -- AcousticSynthesis/en.lproj/InfoPlist.strings36"0A1D6E91-4E40-4DB0-A594-6A4146CD41C3-
+
+CCpResource "Synthesis Icon.png" "DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Synthesis Icon.png"
+s393378003.371175
+e393378003.496591
+r1
+xCpResource
+xSynthesis Icon.png
+xDerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Synthesis Icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Synthesis Icon.png853f5fd37872b741^60217fd37872b741^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Synthesis%20Icon.png000000000080d041^683"CpResource "Synthesis Icon.png" "DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Synthesis Icon.png"    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/Synthesis Icon.png" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"36"484F4D5A-7756-47BE-9BDD-CBC46D3E0F45-
+
+CCpResource AcousticSynthesis/PlotBorder.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/PlotBorder.png
+s393378003.262903
+e393378003.315161
+r1
+xCpResource
+xAcousticSynthesis/PlotBorder.png
+xDerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/PlotBorder.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/PlotBorder.png645a43d37872b741^06bc50d37872b741^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/PlotBorder.png000000000080d041^703"CpResource AcousticSynthesis/PlotBorder.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/PlotBorder.png    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/PlotBorder.png" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"36"88AE3B52-9559-414F-A7EA-2ACCCFB1028B-
+
+CCpResource AcousticSynthesis/audioGrid.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/audioGrid.png
+s393378003.262665
+e393378003.282572
+r1
+xCpResource
+xAcousticSynthesis/audioGrid.png
+xDerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/audioGrid.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/audioGrid.png045543d37872b741^935648d37872b741^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/audioGrid.png000000000080d041^700"CpResource AcousticSynthesis/audioGrid.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/audioGrid.png    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/audioGrid.png" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"36"E3859782-E90D-4A36-8BFB-A0A512BE0716-
+
+CCpResource AcousticSynthesis/bg4.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/bg4.png
+s393378003.283898
+e393378003.673305
+r1
+xCpResource
+xAcousticSynthesis/bg4.png
+xDerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/bg4.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/bg4.pngcbbd48d37872b741^b75dacd37872b741^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/bg4.png000000000080d041^682"CpResource AcousticSynthesis/bg4.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/bg4.png    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/bg4.png" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"36"623B781B-8586-49D1-8335-101D018DA71E-
+
+CCpResource AcousticSynthesis/drexelSlider.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/drexelSlider.png
+s393378003.316380
+e393378003.349568
+r1
+xCpResource
+xAcousticSynthesis/drexelSlider.png
+xDerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/drexelSlider.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/drexelSlider.png221a51d37872b741^4a7d59d37872b741^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/drexelSlider.png000000000080d041^709"CpResource AcousticSynthesis/drexelSlider.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/drexelSlider.png    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/drexelSlider.png" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"36"A82BBCA1-647E-4CB8-9B92-10A022EC55C6-
+
+CCpResource AcousticSynthesis/envelopeButton.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/envelopeButton.png
+s393378003.368496
+e393378003.463157
+r1
+xCpResource
+xAcousticSynthesis/envelopeButton.png
+xDerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/envelopeButton.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/envelopeButton.pngf86b5ed37872b741^0c9276d37872b741^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/envelopeButton.png000000000080d041^715"CpResource AcousticSynthesis/envelopeButton.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/envelopeButton.png    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/envelopeButton.png" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"36"0EF3BF2B-23C9-45CC-8C93-A552C84902A5-
+
+CCpResource AcousticSynthesis/playButton.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/playButton.png
+s393378003.316411
+e393378003.368588
+r1
+xCpResource
+xAcousticSynthesis/playButton.png
+xDerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/playButton.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/playButton.png4d1451d37872b741^d95b5ed37872b741^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/playButton.png000000000080d041^703"CpResource AcousticSynthesis/playButton.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/playButton.png    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/playButton.png" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"36"652700AD-C692-4652-8408-32ACB5EDD6F7-
+
+CCpResource AcousticSynthesis/portrait_background.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/portrait_background.png
+s393378003.316372
+e393378003.690195
+r1
+xCpResource
+xAcousticSynthesis/portrait_background.png
+xDerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/portrait_background.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/portrait_background.png3b1851d37872b741^afb0b0d37872b741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/portrait_background.png000000000080d041^730"CpResource AcousticSynthesis/portrait_background.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/portrait_background.png    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/portrait_background.png" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"36"EEC9E5C3-C0E8-4B3D-A604-79E55B4BEF7F-
+
+CCpResource AcousticSynthesis/specGrid.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/specGrid.png
+s393378003.262657
+e393378003.315195
+r1
+xCpResource
+xAcousticSynthesis/specGrid.png
+xDerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/specGrid.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/specGrid.png225243d37872b741^adc050d37872b741^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/specGrid.png000000000080d041^697"CpResource AcousticSynthesis/specGrid.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/specGrid.png    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/specGrid.png" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"36"74E9814D-BA16-4DA2-A685-0668F39E9F2A-
+
+CCpResource AcousticSynthesis/stopButton.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/stopButton.png
+s393378003.316400
+e393378003.368608
+r1
+xCpResource
+xAcousticSynthesis/stopButton.png
+xDerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/stopButton.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/stopButton.png051951d37872b741^855f5ed37872b741^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/stopButton.png000000000080d041^703"CpResource AcousticSynthesis/stopButton.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/stopButton.png    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/stopButton.png" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"36"40A39588-8438-4A60-93F0-D28B7D4DC74D-
+
+CCpResource icon.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/icon.png
+s393378003.262644
+e393378003.315352
+r1
+xCpResource
+xicon.png
+xDerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/icon.pngf85343d37872b741^72c250d37872b741^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/icon.png000000000080d041^649"CpResource icon.png DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/icon.png    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/icon.png" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"36"0314E6E1-DA64-4645-BC4F-4DF3EED1082E-
+
+CGenerateDSYMFile "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app.dSYM" "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/SMTSoundFX"
+s393712784.940714
+e393712785.042710
+r1
+xGenerateDSYMFile
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app.dSYM
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/SMTSoundFX
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Generate /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app.dSYMe1eef0909477b741^e9ee0a919477b741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app.dSYM/0000000000000000^801"GenerateDSYMFile DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app.dSYM DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/SMTSoundFX    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/SMTSoundFX" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app.dSYM"36"1521D608-DCB8-4922-8F94-791819EEFD20-
+
+CLd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/SMTSoundFX" normal i386
+s393712784.817394
+e393712784.934048
+r1
+xLd
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/SMTSoundFX
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Link /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/SMTSoundFXab5bd1909477b741^931def909477b741^---0#0#0#--1453"Ld DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/SMTSoundFX normal i386    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk "-L/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" -filelist "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/Objects-normal/i386/SMTSoundFX.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework AudioToolbox -framework QuartzCore -framework Accelerate -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/SMTSoundFX"36"09158D54-4A97-4E18-9D57-9A38FAB23C40-
+
+CProcessInfoPlistFile "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Info.plist" AcousticSynthesis/SMTSoundFX-Info.plist
+s393377998.388224
+e393377998.435113
+r1
+xProcessInfoPlistFile
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Info.plist
+xAcousticSynthesis/SMTSoundFX-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Process AcousticSynthesis/SMTSoundFX-Info.plisteb7163ce7872b741^e9626fce7872b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/SMTSoundFX-Info.plist0000000000000000^811"ProcessInfoPlistFile DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Info.plist AcousticSynthesis/SMTSoundFX-Info.plist    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AcousticSynthesis/SMTSoundFX-Info.plist -genpkginfo "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app/Info.plist"36"1C7D693E-3C4C-4FDB-A407-EF643D61DF42-
+
+CProcessPCH "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch.pth" AcousticSynthesis/SMTSoundFX-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393377998.448925
+e393378002.007326
+r1
+xProcessPCH
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch.pth
+xAcousticSynthesis/SMTSoundFX-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Precompile AcousticSynthesis/SMTSoundFX-Prefix.pch1f8173ce7872b741^adde01d27872b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/SMTSoundFX-Prefix.pch0000000000000000^3939"ProcessPCH DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch.pth AcousticSynthesis/SMTSoundFX-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SMTSoundFX-Prefix.pch" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-giqmdisrmjktxgecllbotmjjfiib/SMTSoundFX-Prefix.pch.d"36"002BE196-8A7A-4083-93E0-CBBB6E9270D6-
+
+CProcessPCH "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Index/PrecompiledHeaders/SMTSoundFX-Prefix-aqphmphcnmrycperdqcqudfnvnxy_ast/SMTSoundFX-Prefix.pch.pth" AcousticSynthesis/SMTSoundFX-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-andwpifxjjafvogimdjxcnbiadgb/SMTSoundFX-Prefix.pch.pth" AcousticSynthesis/SMTSoundFX-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s393469141.444671
+e393469142.678781
+r1
+xProcessPCH++
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-andwpifxjjafvogimdjxcnbiadgb/SMTSoundFX-Prefix.pch.pth
+xAcousticSynthesis/SMTSoundFX-Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Precompile AcousticSynthesis/SMTSoundFX-Prefix.pch13f271d5dc73b741^cec3add6dc73b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Jeff/Drexel/MET%20Lab/SMT%202013/SMTSoundFX/AcousticSynthesis/SMTSoundFX-Prefix.pch0000000000000000^4061"ProcessPCH++ DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-andwpifxjjafvogimdjxcnbiadgb/SMTSoundFX-Prefix.pch.pth AcousticSynthesis/SMTSoundFX-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-generated-files.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-own-target-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-all-target-headers.hmap" -iquote "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/SMTSoundFX-project-headers.hmap" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources/i386" "-I/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/SMTSoundFX.build/Debug-iphonesimulator/SMTSoundFX.build/DerivedSources" "-F/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-andwpifxjjafvogimdjxcnbiadgb/SMTSoundFX-Prefix.pch.dia" -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/AcousticSynthesis/SMTSoundFX-Prefix.pch" -o "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-andwpifxjjafvogimdjxcnbiadgb/SMTSoundFX-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Intermediates/PrecompiledHeaders/SMTSoundFX-Prefix-andwpifxjjafvogimdjxcnbiadgb/SMTSoundFX-Prefix.pch.d"36"FFCC59A6-0D00-450A-B072-D4175E1D667E-
+
+CProcessPCH++ "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Index/PrecompiledHeaders/SMTSoundFX-Prefix-fxdrsflpefzlnfcatksetuacldil_ast/SMTSoundFX-Prefix.pch.pth" AcousticSynthesis/SMTSoundFX-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"
+s393712785.211612
+e393712785.217987
+r1
+xTouch
+x/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Touch /Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app693b36919477b741^68cd37919477b741^---0#0#0#--478"Touch DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app    cd "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Jeff/Drexel/MET Lab/SMT 2013/SMTSoundFX/DerivedData/SMTSoundFX/Build/Products/Debug-iphonesimulator/SMTSoundFX.app"36"43D0C6BD-83BD-4A53-9F01-CBDF7F86486C-
+
